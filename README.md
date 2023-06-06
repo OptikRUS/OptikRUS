@@ -1,5 +1,5 @@
 # Кирилл М.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
-
+[💾 Скачать резюме](https://disk.yandex.ru/i/vDn7LZn-qFS1Lg "скачать резюме")
 ### Backend Developer | Python3🐍 FastAPI Django PostgreSQL
 ## Контактная информация:
 
@@ -96,3 +96,9 @@
 </div>
 
 ***
+
+<p align="center">
+  <a href="https://disk.yandex.ru/i/vDn7LZn-qFS1Lg" download>
+    💾 Скачать резюме
+  </a>
+</p>
