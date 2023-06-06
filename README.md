@@ -98,7 +98,7 @@
 ***
 
 <div align="center">
-  <a style="font-size: 2em;" href="https://disk.yandex.ru/i/vDn7LZn-qFS1Lg" download>
+  <a href="https://disk.yandex.ru/i/vDn7LZn-qFS1Lg" download>
     💾 Скачать резюме
   </a>
 </div>
