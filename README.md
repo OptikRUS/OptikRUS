@@ -109,7 +109,7 @@
 ***
 
 <div align="center">
-  <a href="https://disk.yandex.ru/i/vDn7LZn-qFS1Lg" download>
+  <a href="https://github.com/OptikRUS/resume/blob/files/files/cv_15_05_2023.pdf" download>
     💾 Скачать резюме
   </a>
 </div>
