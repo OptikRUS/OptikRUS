@@ -84,12 +84,15 @@
 ***
 ## <p align="center">🏆 Достижения:</p>
   * Финалист <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/leaders_2023_certificate.pdf" target="_blank">Сертификат</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/leaders2023_diplom.pdf" target="_blank">Диплом</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Сертификат</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Диплом</a>
+  * Финалист <a href="https://i.moscow/cabinet/lct/hackatons/9dc09906251e41cf9ae79abbe5ba16ac" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023 Краснодарский край</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_certificate.pdf" target="_blank">Сертификат</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_diplom.pdf" target="_blank">Диплом</a>
   * Хакатон <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">ЕВРАЗА 2.0</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/files/files/evraz.pdf" target="_blank">Сертификат</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/evraz.pdf" target="_blank">Сертификат</a>
   * Онлайн-хакатон <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">Sovcombank Team Challenge 2022</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/files/files/Sovcombank.pdf" target="_blank">Сертификат</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/Sovcombank.pdf" target="_blank">Сертификат</a>
 
 
 ***
@@ -102,7 +105,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+15+%D0%B8%D1%8E%D0%BD%D1%8F+2023+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+1+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F+2023+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
