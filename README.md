@@ -16,7 +16,7 @@
 
 ***
 
-## 💼 Опыт работы (4+):
+## 💼 Опыт работы:
 - Работа с **ORM**, такими как Django-ORM и Tortoise-ORM. Работа с **RAW SQL-запросами**.
 - Разработки backend-части **приложений с нуля**.
 - Работа с **Legacy-кодом**. Также умею вносить изменения в Legacy-код с минимальными рисками для проекта.
@@ -105,7 +105,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=000000&random=false&width=611&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+1+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F+2023+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=600&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+15+%D0%B8%D1%8E%D0%BD%D1%8F+2023+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
