@@ -86,7 +86,7 @@
   * Финалист <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Диплом</a>
-  * Финалист <a href="https://i.moscow/cabinet/lct/hackatons/9dc09906251e41cf9ae79abbe5ba16ac" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023 Краснодарский край</a>
+  * Финалист <a href="https://i.moscow/lct/krasnodar" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023 Краснодарский край</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_certificate.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_diplom.pdf" target="_blank">Диплом</a>
   * Хакатон <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">ЕВРАЗА 2.0</a>
