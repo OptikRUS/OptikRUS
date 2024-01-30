@@ -17,7 +17,7 @@
 ***
 
 ## 💼 Опыт работы:
-- Работа с **ORM**, такими как Django-ORM и Tortoise-ORM. Работа с **RAW SQL-запросами**.
+- Работа с **ORM**, такими как Django-ORM, Tortoise-ORM и SQLAlchemy. Работа с **RAW SQL-запросами**.
 - Разработки backend-части **приложений с нуля**.
 - Работа с **Legacy-кодом**. Также умею вносить изменения в Legacy-код с минимальными рисками для проекта.
 - Работа над **поддержкой и развитием** новой функциональности приложений. 
@@ -44,10 +44,18 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 ## 🤝 Soft skills:
 * **Learning agility:** Обладаю высокой **скоростью обучения** и готовностью к быстрому изменению, 
@@ -105,7 +113,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+1+%D0%B4%D0%B5%D0%BA%D0%B0%D0%B1%D1%80%D1%8F+2023+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+1+%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F+2024+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
