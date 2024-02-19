@@ -1,4 +1,4 @@
-[💾 Скачать резюме](https://disk.yandex.ru/i/vDn7LZn-qFS1Lg "Скачать резюме")
+[💾 Скачать резюме](https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Скачать резюме")
 # Кирилл М.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
 ### Backend Developer | Python3🐍 FastAPI Django PostgreSQL
 ## Контактная информация:
@@ -120,8 +120,7 @@
 ***
 
 <div align="center">
-  <a href="https://github.com/OptikRUS/resume/blob/files/files/cv_15_05_2023.pdf" download>
+  <a href="https://github.com/OptikRUS/resume/blob/files/files/cv_02_02_2024.pdf" download>
     💾 Скачать резюме
   </a>
 </div>
-
