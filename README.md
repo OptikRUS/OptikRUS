@@ -31,7 +31,9 @@
 
 **Стек:** 
 Python3 (FastAPI, SQLAlchemy, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
+
 ***
+
 <a href="https://fortech.dev/" target="_blank">
 <img height="50" src="https://fortech.dev/static/a32912ca163863d6d8eba37312fee27c/fortech-standart-logo.svg" alt="Fortech">
 </a>
@@ -66,11 +68,14 @@ Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), 
 - Интеграция стороннего сервиса Zoom
 - Реализация прав пользователей для приложения
 - Техническая защита проекта перед заказчиком
+
 **Стек:**
 Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
+
 ***
+
 <a href="https://artw.ru/" target="_blank">
-<img height="30" src="https://artw.ru/local/templates/main_new/assets/images/logo-light.svg" alt="ARTW">
+<img height="30" src="https://artw.ru/local/templates/main_new/assets/images/logo-white.svg" alt="ARTW">
 </a>
 
 Проект: Сайт для брокеров и клиентов в сфере недвижимости
@@ -88,7 +93,9 @@ Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHu
 - Внедрение линтеров в процесс разработки (дембельский аккорд)
 **Стек:** 
 Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, Gitlab, Docker, Sentry, YouTrack
+
 ***
+
 ## NDA
 Проект: Телеграм бот для услуг фотографа с админкой (Лидство)
 - Подготовка инфраструктуры для автоматического развертывания
