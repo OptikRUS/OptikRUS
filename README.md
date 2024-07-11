@@ -28,6 +28,11 @@
 - Разработка микросервисов с учетом шаблонизации
 - Кросс-ревью кода
 - Оценка и декомпозиция задач
+- Проектирование C4L1 и C4L2
+- Выгрузка данных из MinIO
+- Интеграция и использование Kafka как шины данных
+
+**Стек**: Python3 (FastAPI, SQLAlchemy, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
 
 **Стек**: Python3 (FastAPI, SQLAlchemy, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
 
