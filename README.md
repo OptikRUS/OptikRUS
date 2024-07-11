@@ -34,8 +34,6 @@
 
 **Стек**: Python3 (FastAPI, SQLAlchemy, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
 
-**Стек**: Python3 (FastAPI, SQLAlchemy, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
-
 ***
 
 <a href="https://fortech.dev/" target="_blank">
