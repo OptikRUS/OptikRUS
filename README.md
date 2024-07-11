@@ -198,6 +198,9 @@
 
 ***
 ## <p align="center">🏆 Достижения:</p>
+  * Финалист <a href="https://i.moscow/cabinet/lct/hackatons/daabee9fb6384927a8926486d52e8021/" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2024</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Сертификат</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Диплом</a>
   * Финалист <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Сертификат</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Диплом</a>
