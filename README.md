@@ -187,10 +187,7 @@ and facilitate understanding among colleagues.
 
 <p>
 <a href="https://sfedu.ru/" target="_blank">
-<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_sfedu_round.png" alt="ЮФУ">
-</a>
-<a href="https://inep.sfedu.ru/" target="_blank">
-<img height="100" src="http://inep.sfedu.ru/wp-content/uploads/2015/03/logo_inep_round1.png" alt="ИНЭП ЮФУ">
+<img height="100" src="https://sfedu.ru/img/new_design_2020/logo.png" alt="SFU">
 </a>
 </p>
 
