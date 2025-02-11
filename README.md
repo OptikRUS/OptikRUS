@@ -5,7 +5,7 @@
 
 📞Phone: +7-778-237-89-68
 <p align='left'>
-   📫 E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
+   📫E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
 </p>
 <a href="https://t.me/OptikRUS" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -23,7 +23,7 @@
 
 **Project**: B2B Microservices
 - Designing microservices architecture and APIs
-- Mentorship and coaching in development, analytics, and architecture
+- Mentorship and coaching in development, analytics and architecture
 - Active participation in optimizing company processes
 - Developing microservices with a focus on templating
 - Cross-code review
@@ -31,6 +31,7 @@
 - Designing C4L1 and C4L2
 - Extracting data from MinIO
 - Integrating and utilizing Kafka as a data bus
+- Implementation and use of development methodologies (BDD + TDD)
 - Increasing test coverage 0% -> 98%
 
 **Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
@@ -41,38 +42,42 @@
 <img height="50" src="https://fortech.dev/static/a32912ca163863d6d8eba37312fee27c/fortech-standart-logo.svg" alt="Fortech">
 </a>
 
-**Проект**: Десктоп приложение для распознавания автомобильных номеров
-- Декомпозиция и оценка задач
-- Проектирование архитектуры приложения
-- Работа с алгоритмом распознавания текста на фото/видео
-- Упаковка Python-приложения в .exe
+**Project**: Web Applications (Microservices)
+- Integration of a transactional service
+- Implementing linters using a custom service as an example
+- Developing microservices from scratch
+- Developing a microservice for file upload/retrieval (S3, MinIO)
+- Developing a transactional service
+- Integration of third-party services
+- Working with data caching
+- Cross-code review
+- Mentorship, coaching, and training of new employees
+- Increasing test coverage 0% -> 92%
 
-**Стек**: Python3 (OpenCV, PyQt6, SQLAlchemy, pyinstaller), SQLite, Docker, GitHub, Trello
-
----
-**Проект**: Веб-приложения (микрачи)
-- Разработка микросервисов с нуля
-- Создание микросервиса для загрузки/получения файлов (S3, MinIO)
-- Интеграция сторонних сервисов
-- Наставничество, менторство и обучение новых сотрудников
-- Работа с кэшированием данных
-- Кросс-ревью
-
-**Стек**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
+**Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
 ---
-**Проект**: Мобильное приложение для контрольных органов
-- Подготовка инфраструктуры для автоматического развертывания
-- Декомпозиция и оценка задач (лидство)
-- Проектирование архитектуры приложения
-- Разаработка API для мобилки
-- Разработка админки приложения
-- Разработка заполнения слотов календаря для администраторов
-- Интеграция стороннего сервиса Zoom
-- Реализация прав пользователей для приложения
-- Техническая защита проекта перед заказчиком
+**Project**: Desktop Application for License Plate Recognition
+- Task decomposition and estimation
+- Application architecture design
+- Working with text recognition algorithms for photos/videos
+- Packaging the Python application into a .exe
 
-**Стек**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
+**Tech Stack**: Python3 (OpenCV, PyQt6, SQLAlchemy, pyinstaller), SQLite, Docker, GitHub, Trello
+
+---
+**Project**: Mobile Application for Regulatory Authorities
+- Preparing infrastructure for automatic deployment
+- Task decomposition and estimation (leadership)
+- Designing the application architecture
+- Developing the API for the mobile app
+- Developing the admin panel for the application
+- Implementing calendar slot management for administrators
+- Integrating the third-party Zoom service
+- Implementing user access control for the application
+- Technical defense of the project before the client
+
+**Tech Stack**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
 
 ***
 
@@ -80,21 +85,21 @@
 <img height="30" src="https://artw.ru/local/templates/main_new/assets/images/logo-white.svg" alt="ARTW">
 </a>
 
-**Проект**: Сайт для брокеров и клиентов в сфере недвижимости
-- Разработка сервиса для расчета ипотеки
-- Интеграция сторонних сервисов (AmoCRM, ДвижApi)
-- Поддержка и развитие административной панели приложения
-- Разработка и поддержка личных кабинетов пользователей
-- Выполнял обязанности лида (планирование, декомпозиция, релизы)
-- Рефакторинг старого функционала и переписывание устаревшего кода
-- Улучшение процессов в команде разработки
-- Продвижение концепции покрытия кода тестами
-- Разработка тестов для охвата ключевых аспектов кодовой базы
-- Миграция данных между сервисами
-- Кросс-ревью
-- Внедрение линтеров в процесс разработки (дембельский аккорд)
+**Project**: Website for Brokers and Clients in the Real Estate Sector
+- Developing a mortgage calculation service
+- Integrating third-party services (AmoCRM, DvizhApi)
+- Supporting and enhancing the application’s admin panel
+- Developing and maintaining user dashboards
+- Acted as a lead (planning, decomposition, releases)
+- Refactoring old functionality and rewriting legacy code
+- Improving development team processes
+- Promoting test coverage adoption
+- Developing tests to cover key aspects of the codebase
+- Migrating data between services
+- Cross-code review
+- Introducing linters into the development process (final contribution)
 
-**Стек**: Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, Gitlab, Docker, Sentry, YouTrack
+**Tech Stack**: Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, Gitlab, Docker, Sentry, YouTrack
 
 ***
 
