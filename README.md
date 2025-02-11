@@ -75,7 +75,7 @@
 - Implementing calendar slot management for administrators
 - Integrating the third-party Zoom service
 - Implementing user access control for the application
-- Technical defense of the project before the client
+- Technical presentation of the project for the product owner
 
 **Tech Stack**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
 
@@ -144,7 +144,7 @@
 
 ***
 
-## 🛠 Ключевые навыки:
+## 🛠 Hard skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -197,8 +197,8 @@ and facilitate understanding among colleagues.
 * Master’s Degree
   * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Electronics and Nanoelectronics</a>
 
-* <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
-  * Юриспруденция
+* <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">Intersectoral regional Center for Advanced Training and Retraining of Personnel</a>
+  * Law
 * Python Programming
 
 ***
