@@ -5,7 +5,7 @@
 
 📞Phone: +7-778-237-89-68
 <p align='left'>
-   📫E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
+   📫E-mail: <a href='mailto:kirillmedvedkodeveloper@gmail.com'>kirillmedvedkodeveloper@gmail.com</a>
 </p>
 <a href="https://t.me/OptikRUS" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -104,43 +104,43 @@
 ***
 
 ## NDA
-**Проект**: Телеграм бот для услуг фотографа с админкой (Лидство)
-- Подготовка инфраструктуры для автоматического развертывания
-- Проектирование базы данных приложения
-- Декомпозиция, оценка задач, деплой и всё такое
-- Наставничество, ментортсво
-- Ревью
-- Общение с заказчиком
+**Project**: Telegram Bot for Photographer Services with Admin Panel (Lead Role)
+- Setting up infrastructure for automatic deployment
+- Designing the application’s database
+- Task decomposition, estimation, deployment, and related processes
+- Mentorship and coaching
+- Code review
+- Communication with the product owner
 
-**Стек**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
-
----
-**Проект**: Приложение для отображения показателей приборов (типа лэндинга)
-- Разработка Kafka-consumer сервиса
-- Реализация кэширования данных из Kafka в MongoDB
-- Разработка эндпоинтов для отображения закэшированных данных
-- Развертывание и деплой сервиса
-
-**Стек**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
+**Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
 
 ---
-**Проект**: NDA | Мобильное приложение
-- Проектирование базы данных
-- Подготовка инфраструктуры для автоматического развертывания
-- Работа над поддержкой и развитием новой функциональности
-- Реализация API сервиса
-- Разработка и улучшение административного интерфейса
-- Интеграция сторонних сервисов
+**Project**: Application for Displaying Instrument Readings (Landing Page Style)
+- Developing a Kafka consumer service
+- Implementing data caching from Kafka into MongoDB
+- Developing endpoints for displaying cached data
+- Deploying and launching the service
 
-**Стек**: Python (Django DRF), PostgreSQL, Docker, GitHub, Trello
+**Tech Stack**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
 
 ---
-**Проект**: Админка сайта для запросов в сторонние сервисы
-- Разработка административного интерфейса для запросов в сторонние сервисы
-- Интеграция сторонних API
-- Проектирование базы данных
+**Project**: NDA | Mobile Application
+- Designing the database
+- Setting up infrastructure for automatic deployment
+- Supporting and developing new functionality
+- Implementing the service API
+- Developing and improving the administrative interface
+- Integrating third-party services
 
-**Стек**: Python (Django), PostgreSQL, Docker, GitHub, Trello
+**Tech Stack**: Python (Django DRF), PostgreSQL, Docker, GitHub, Trello
+
+---
+**Project**: Website Admin Panel for Requests to Third-Party Services
+- Developing an administrative interface for making requests to third-party services
+- Integrating third-party APIs
+- Designing the database
+
+**Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
 ***
 
@@ -171,7 +171,6 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-## 🤝 Soft skills:
 * **Learning agility:** Обладаю высокой **скоростью обучения** и готовностью к быстрому изменению, 
 благодаря чему могу легко адаптироваться к новым условиям и технологиям.
 * Опыт работы в командных проектах, где использовались **Agile,** **Scrum** и **Kanban** методологии. 
@@ -182,9 +181,19 @@
 * Успешный **опыт менторства** и наставничества, помогаю коллегам и стажерам развиваться в своей профессиональной области. 
 Умею создавать приятную и поддерживающую атмосферу, которая стимулирует рост и успех моих подопечных.
 
+## 🤝 Soft skills:
+- **Learning agility:** I have a **high learning speed** and adaptability, 
+allowing me to quickly adjust to new environments and technologies.
+- Experience working on team projects using **Agile**, **Scrum**, and **Kanban** methodologies.
+- Strong **interpersonal skills**, enabling me to **work effectively** with people from different cultures 
+and facilitate understanding among colleagues.
+- **Highly proficient** in handling large amounts of information and **quickly finding** relevant data.
+- Ability to explain complex technical concepts in simple and clear terms for clients. I also successfully apply this skill in communication with my colleagues.
+- Proven **mentorship** and coaching experience, helping colleagues and interns grow in their professional fields. I excel at creating a supportive and encouraging environment that fosters development and success.
+
 ***
 
-## 🎓 Высшее образование:
+## 🎓 High education:
 
 <p>
 <a href="https://sfedu.ru/" target="_blank">
@@ -195,35 +204,35 @@
 </a>
 </p>
 
-* Бакалавриат
-  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
+* Bachelor’s Degree
+  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Electronics and Nanoelectronics</a>
 
-* Магистратура
-  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Электроника и наноэлектроника</a>
+* Master’s Degree
+  * <a href="https://inep.sfedu.ru/chairs/rte/" target="_blank">Electronics and Nanoelectronics</a>
 
 * <a href="http://mrcpk.tgn.sfedu.ru/" target="_blank">МРЦПКиПК</a>
   * Юриспруденция
-* Программирование на Python
+* Python Programming
 
 ***
-## <p align="center">🏆 Достижения:</p>
-  * Финалист <a href="https://i.moscow/cabinet/lct/hackatons/daabee9fb6384927a8926486d52e8021/" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2024</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Сертификат</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Диплом</a>
-  * Финалист <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Сертификат</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Диплом</a>
-  * Финалист <a href="https://i.moscow/lct/krasnodar" target="_blank">ЛИДЕРЫ ЦИФРОВОЙ ТРАНСФОРМАЦИИ 2023 Краснодарский край</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_certificate.pdf" target="_blank">Сертификат</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_diplom.pdf" target="_blank">Диплом</a>
-  * Хакатон <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">ЕВРАЗА 2.0</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/evraz.pdf" target="_blank">Сертификат</a>
-  * Онлайн-хакатон <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">Sovcombank Team Challenge 2022</a>
-    * <a href="https://github.com/OptikRUS/resume/blob/master/files/Sovcombank.pdf" target="_blank">Сертификат</a>
+## <p align="center">🏆 Achievements:</p>
+  * Finalist <a href="https://i.moscow/cabinet/lct/hackatons/daabee9fb6384927a8926486d52e8021/" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2024</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Certificate</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Diploma</a>
+  * Finalist <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2023</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Certificate</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Diploma</a>
+  * Finalist <a href="https://i.moscow/lct/krasnodar" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2023 Krasnodar Region</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_certificate.pdf" target="_blank">Certificate</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_diplom.pdf" target="_blank">Diploma</a>
+  * Hackathon <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">EVRAZ 2.0</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/evraz.pdf" target="_blank">Certificate</a>
+  * Online Hackathon <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">SOVCOMBANK_TEAM_CHALLENGE 2022</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/master/files/Sovcombank.pdf" target="_blank">Certificate</a>
 
 
 ***
-## <p align="center">💻 Обо мне:</p>
+## <p align="center">💻 About:</p>
 <p>
 Ставлю свой профессиональный рост на первое место, и поэтому постоянно изучаю новые технологии и участвую в хакатонах, чтобы оставаться в курсе последних тенденций. 
 Более того, я с радостью менторю других людей, чтобы помочь им улучшить свои навыки и достигнуть своих целей в карьере.
@@ -232,7 +241,7 @@
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+11+%D0%B8%D1%8E%D0%BB%D1%8F+2024+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+11+%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F+2025+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
 
 </div>
 
