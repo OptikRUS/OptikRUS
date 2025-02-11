@@ -3,7 +3,7 @@
 ### Backend Developer | Python3🐍 FastAPI Django PostgreSQL
 ## Контактная информация:
 
-📞Телефон: +7-920-664-09-00
+📞Phone: +7-778-237-89-68
 <p align='left'>
    📫 E-mail: <a href='mailto:optikrus61@gmail.com'>optikrus61@gmail.com</a>
 </p>
