@@ -1,7 +1,7 @@
 [//]: # ([💾 Скачать резюме]&#40;https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Скачать резюме"&#41;)
-# Кирилл М.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
+# Kirill M.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
 ### Backend Developer | Python3🐍 FastAPI Django PostgreSQL
-## Контактная информация:
+## Contacts:
 
 📞Phone: +7-778-237-89-68
 <p align='left'>
@@ -16,23 +16,24 @@
 
 ***
 
-## 💼 Опыт работы:
+## 💼 Professional experience:
 <a href="https://www.compel.ru/" target="_blank">
 <img height="100" src="https://weipu.ru/upload/iblock/28a/compel_logo.png" alt="Компэл">
 </a>
 
-**Проект**: b2b микросервисы
-- Проектирование архитектуры микросервисов и API
-- Наставничество и менторство в области разработки, аналитики и архитектуры
-- Активное участие в налаживании процессов компании
-- Разработка микросервисов с учетом шаблонизации
-- Кросс-ревью кода
-- Оценка и декомпозиция задач
-- Проектирование C4L1 и C4L2
-- Выгрузка данных из MinIO
-- Интеграция и использование Kafka как шины данных
+**Project**: B2B Microservices
+- Designing microservices architecture and APIs
+- Mentorship and coaching in development, analytics, and architecture
+- Active participation in optimizing company processes
+- Developing microservices with a focus on templating
+- Cross-code review
+- Task estimation and decomposition
+- Designing C4L1 and C4L2
+- Extracting data from MinIO
+- Integrating and utilizing Kafka as a data bus
+- Increasing test coverage 0% -> 98%
 
-**Стек**: Python3 (FastAPI, SQLAlchemy, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
+**Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
 
 ***
 
