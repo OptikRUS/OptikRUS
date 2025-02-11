@@ -234,14 +234,14 @@ and facilitate understanding among colleagues.
 ***
 ## <p align="center">💻 About:</p>
 <p>
-Ставлю свой профессиональный рост на первое место, и поэтому постоянно изучаю новые технологии и участвую в хакатонах, чтобы оставаться в курсе последних тенденций. 
-Более того, я с радостью менторю других людей, чтобы помочь им улучшить свои навыки и достигнуть своих целей в карьере.
+I prioritize my professional growth, which is why I constantly learn new technologies and participate in hackathons to stay up to date with the latest trends.
+Moreover, I gladly mentor others to help them improve their skills and achieve their career goals.
 </p>
 
 ***
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+11+%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F+2025+%D0%B3%D0%BE%D0%B4%D0%B0;.+.+.)](#кирилл-медведко)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000202&size=25&multiline=true&width=640&lines=%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F+%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D1%8F%D0%BB%D0%B0%D1%81%D1%8C+11+%D1%84%D0%B5%D0%B2%D1%80%D0%B0%D0%BB%D1%8F+2025+%D0%B3%D0%BE%D0%B4%D0%B0+;.+.+.)](#кирилл-медведко)
 
 </div>
 
