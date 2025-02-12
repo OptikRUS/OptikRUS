@@ -8,7 +8,7 @@
 <p align='left'>
    📫E-mail: <a href='mailto:kirillmedvedkodeveloper@gmail.com'>kirillmedvedkodeveloper@gmail.com</a>
 </p>
-<a href="https://t.me/OptikRUS" target="_blank">
+<a href="https://t.me/kirillpydev" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/optikrus" target="_blank">
