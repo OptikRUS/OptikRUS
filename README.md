@@ -14,7 +14,7 @@
 <a href="https://api.whatsapp.com/send?phone=77782378968" target="_blank">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/optikrus" target="_blank">
+<a href="https://www.linkedin.com/in/kirillpydev" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,17 +26,18 @@
 </a>
 
 **Project**: B2B Microservices
-- Designing microservices architecture and APIs
-- Mentorship and coaching in development, analytics and architecture
-- Active participation in optimizing company processes
-- Developing microservices with a focus on templating
-- Cross-code review
-- Task estimation and decomposition
+- Designing the architecture of microservices and APIs
 - Designing C4L1 and C4L2
-- Extracting data from MinIO
 - Integrating and utilizing Kafka as a data bus
-- Implementation and use of development methodologies (BDD + TDD)
-- Increasing test coverage 0% -> 98%
+- Implementing data export functionality from MinIO
+- Implementing and utilizing development methodologies (BDD + TDD)
+- Optimized data import time from 8 hours to 40 minutes through index manipulations
+- Increased test coverage from 0% to 98%
+- Mentorship and coaching in development, analytics, and architecture
+- Developing microservices with templating in mind
+- Conducting cross-code reviews
+- Task estimation and decomposition
+- Actively contributing to process improvement within the company
 
 **Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
 
@@ -47,12 +48,12 @@
 </a>
 
 **Project**: Web Applications (Microservices)
-- Integration of a transactional service
-- Implementing linters using a custom service as an example
-- Developing microservices from scratch
-- Developing a microservice for file upload/retrieval (S3, MinIO)
-- Developing a transactional service
+- Implemented a layered architecture and reduced dependencies between components, improving service scalability and testability
+- Initiated and implemented linters (ruff & mypy)
 - Integration of third-party services
+- Developing microservices from scratch
+- Integration of a transactional service
+- Developing a microservice for file upload/retrieval (S3, MinIO)
 - Working with data caching
 - Cross-code review
 - Mentorship, coaching, and training of new employees
@@ -65,7 +66,8 @@
 - Task decomposition and estimation
 - Application architecture design
 - Working with text recognition algorithms for photos/videos
-- Packaging the Python application into a .exe
+- Integrating the recognition algorithm into a video surveillance system
+- Packaging a Python application into a .exe file
 
 **Tech Stack**: Python3 (OpenCV, PyQt6, SQLAlchemy, pyinstaller), SQLite, Docker, GitHub, Trello
 
