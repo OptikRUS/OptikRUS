@@ -190,7 +190,7 @@ and facilitate understanding among colleagues.
 
 ***
 
-## 🎓 High education:
+## 🎓 Higher education:
 
 <p>
 <a href="https://sfedu.ru/" target="_blank">
