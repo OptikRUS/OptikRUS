@@ -58,7 +58,7 @@ resulting in a structured backlog and accelerating the transition to a **microse
 
 **Project**: Web Applications (Microservices)
 - Implemented a **layered architecture**, reducing dependencies between components, which improved **service scalability**, 
-simplified **testing**, and accelerated **change deployment**.
+simplified **testing**, and accelerated **change deployment**
 - Introduced a **testing process** using **pytest**, increasing test coverage from **0% to 92%**, which **cut debugging time by 50%**, 
 accelerated **release cycles**, and improved **system stability**.
 - Initiated and integrated **linters (ruff & mypy)**, reducing **static errors by 25%**, speeding up **code reviews**, 
