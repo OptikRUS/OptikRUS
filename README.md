@@ -26,7 +26,7 @@
 </a>
 
 **Project**: B2B Microservices
-- Conducted load testing with Locust, identified system bottlenecks, and reduced response time **by 30x**
+- Conducted load testing with **Locust**, identified system bottlenecks, and reduced response time **by 30x**
 - Implemented asynchronous data export from **MinIO**, automating the process and reducing system load
 - Optimized search queries, reducing response time **from 3500 ms to 95 ms** by fine-tuning indexes
 - Accelerated data import **from 8 hours to 40 minutes (12x faster)** by optimizing indexes, transactions, 
