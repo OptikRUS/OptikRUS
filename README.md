@@ -68,13 +68,13 @@ reducing **release time by 40%** and minimizing **production errors**.
 - **Mentored and trained** new employees, accelerating their **onboarding** and improving **team productivity**, 
 while actively participating in **cross-reviews** to identify **architectural issues** and enhance **code quality**.
 - Conducted **screenings, technical interviews, performance reviews, and employee evaluations,** 
-helping to identify **strengths and weaknesses** and increase team efficiency.
+helping to identify **strengths and weaknesses** and increase **team efficiency**.
 - Performed **system analysis** for **service integrations**, created documentation, and **trained developers**, 
 simplifying the adoption of new integrations and accelerating their implementation.
 - Initiated, advocated for, and implemented a **transaction analytics service** using **RabbitMQ → ClickHouse**, 
 enabling fast and scalable financial data collection and analysis.
 - Developed a microservice for file uploading and retrieval with **S3 and MinIO** support, implementing metadata caching in PostgreSQL, 
-reducing file access time by 40% and decreasing storage load
+reducing file access time by 40% and **decreasing storage load**
 
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
