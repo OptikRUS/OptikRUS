@@ -26,18 +26,27 @@
 </a>
 
 **Project**: B2B Microservices
-- Designing the architecture of microservices and APIs
-- Designing C4L1 and C4L2
-- Integrating and utilizing Kafka as a data bus
-- Implementing data export functionality from MinIO
-- Implementing and utilizing development methodologies (BDD + TDD)
-- Optimized data import time from 8 hours to 40 minutes through index manipulations
-- Increased test coverage from 0% to 98%
-- Mentorship and coaching in development, analytics, and architecture
-- Developing microservices with templating in mind
-- Conducting cross-code reviews
-- Task estimation and decomposition
-- Actively contributing to process improvement within the company
+- Conducted load testing using **Locust**, identifying system bottlenecks.
+- Implemented data export functionality from **MinIO** for asynchronous storage interaction and automated data export processes.
+- Optimized search queries by configuring indexes, reducing search time from **3500ms to 95ms (~30x faster)**
+- Accelerated the data import process, reducing its duration from **8 hours to 40 minutes (12x faster)** 
+by removing and restoring indexes, avoiding locks, and efficiently using transactions.
+- Established an automated testing process, achieving **98% test coverage**, which **reduced the number of bugs by 70%** 
+and improved deployment stability.
+- Designed **C4L1 and C4L2 diagrams** for a clear system representation, accelerating onboarding for new developers 
+and analysts while reducing architecture discussion time by 30%.
+- Validated **BDD scenarios** and trained analysts in writing them, reducing task rework by 35% and improving requirement quality.
+- Developed a unified microservice template with a standardized code structure, cutting deployment time by 2x, 
+ensuring code consistency, and simplifying development requirements.
+- Trained analysts in **system architecture** and mentored developers, introducing and promoting **TDD and BDD methodologies**, 
+which improved documentation quality, enhanced collaboration between business and development, and reduced bugs by 70%.
+- Optimized planning, estimation, and task decomposition processes, increasing timeline prediction accuracy by 35% 
+and improving workload distribution within the team.
+- Designed microservices with a **micro-BE and micro-FE** separation, enabling parallel development, 
+simplifying system scaling, and ensuring component reusability across projects.
+- Integrated **Kafka** for asynchronous service communication, improving order system performance and reducing order processing time by 35%.
+- Developed a plan, conducted assessment, and decomposed tasks for monolith decomposition, 
+resulting in a structured backlog and accelerating the transition to a **microservices architecture**.
 
 **Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, Gitlab, Jira
 
@@ -48,16 +57,24 @@
 </a>
 
 **Project**: Web Applications (Microservices)
-- Implemented a layered architecture and reduced dependencies between components, improving service scalability and testability
-- Initiated and implemented linters (ruff & mypy)
-- Integration of third-party services
-- Developing microservices from scratch
-- Integration of a transactional service
-- Developing a microservice for file upload/retrieval (S3, MinIO)
-- Working with data caching
-- Cross-code review
-- Mentorship, coaching, and training of new employees
-- Increasing test coverage 0% -> 92%
+Implemented a **layered architecture**, reducing dependencies between components, which improved **service scalability**, 
+simplified **testing**, and accelerated **change deployment**.
+- Introduced a **testing process** using **pytest**, increasing test coverage from **0% to 92%**, which **cut debugging time by 50%**, 
+accelerated **release cycles**, and improved **system stability**.
+- Initiated and integrated **linters (ruff & mypy)**, reducing **static errors by 25%**, speeding up **code reviews**, 
+and improving **code readability**.
+- Automated the **code delivery process** by implementing **CI/CD pipelines** with **tests, linters, and type checkers,** 
+reducing **release time by 40%** and minimizing **production errors**.
+- **Mentored and trained** new employees, accelerating their **onboarding** and improving **team productivity**, 
+while actively participating in **cross-reviews** to identify **architectural issues** and enhance **code quality**.
+- Conducted **screenings, technical interviews, performance reviews, and employee evaluations,** 
+helping to identify **strengths and weaknesses** and increase team efficiency.
+- Performed **system analysis** for **service integrations**, created documentation, and **trained developers**, 
+simplifying the adoption of new integrations and accelerating their implementation.
+- Initiated, advocated for, and implemented a **transaction analytics service** using **RabbitMQ → ClickHouse**, 
+enabling fast and scalable financial data collection and analysis.
+- Developed a microservice for file uploading and retrieval with **S3 and MinIO** support, implementing metadata caching in PostgreSQL, 
+reducing file access time by 40% and decreasing storage load
 
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
