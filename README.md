@@ -57,7 +57,7 @@ resulting in a structured backlog and accelerating the transition to a **microse
 </a>
 
 **Project**: Web Applications (Microservices)
-Implemented a **layered architecture**, reducing dependencies between components, which improved **service scalability**, 
+- Implemented a **layered architecture**, reducing dependencies between components, which improved **service scalability**, 
 simplified **testing**, and accelerated **change deployment**.
 - Introduced a **testing process** using **pytest**, increasing test coverage from **0% to 92%**, which **cut debugging time by 50%**, 
 accelerated **release cycles**, and improved **system stability**.
