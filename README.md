@@ -221,7 +221,7 @@ which reduced **file access time by 40%** and **decreased storage load**
 
 ***
 ## <p align="center">🏆 Achievements:</p>
-  * Finalist <a href="https://i.moscow/cabinet/lct/hackatons/daabee9fb6384927a8926486d52e8021/" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2024</a>
+  * Finalist <a href="https://i.moscow/lct" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2024</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Certificate</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Diploma</a>
   * Finalist <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2023</a>
