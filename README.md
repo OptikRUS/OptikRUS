@@ -74,12 +74,14 @@ which reduced **file access time by 40%** and **decreased storage load**
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
 ---
-**Project**: Desktop Application for License Plate Recognition
-- Task decomposition and estimation
-- Application architecture design
-- Working with text recognition algorithms for photos/videos
-- Integrating the recognition algorithm into a video surveillance system
-- Packaging a Python application into a .exe file
+**Project**: Desktop application for automatic license plate recognition
+- Optimized the development process through task decomposition and estimation, reducing feature delivery time by 20%
+- Managed workflows in Trello and GitHub Projects
+- Designed the application architecture, created ERD diagrams, and selected optimal technologies, 
+ensuring scalability and reducing technical debt
+- Integrated the recognition algorithm into a surveillance system by developing video stream processing 
+and API interactions, improving detection speed by 40%
+- Automated the Python application packaging into a .exe, optimizing size and dependencies, reducing deployment time by 50%
 
 **Tech Stack**: Python3 (OpenCV, PyQt6, SQLAlchemy, pyinstaller), SQLite, Docker, GitHub, Trello
 
