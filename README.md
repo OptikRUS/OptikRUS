@@ -191,14 +191,13 @@ which reduced **file access time by 40%** and **decreased storage load**
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
 ## 🤝 Soft skills:
-- **Learning agility:** I have a **high learning speed** and adaptability, 
-allowing me to quickly adjust to new environments and technologies.
-- Experience working on team projects using **Agile**, **Scrum**, and **Kanban** methodologies.
-- Strong **interpersonal skills**, enabling me to **work effectively** with people from different cultures 
-and facilitate understanding among colleagues.
-- **Highly proficient** in handling large amounts of information and **quickly finding** relevant data.
-- Ability to explain complex technical concepts in simple and clear terms for clients. I also successfully apply this skill in communication with my colleagues.
-- Proven **mentorship** and coaching experience, helping colleagues and interns grow in their professional fields. I excel at creating a supportive and encouraging environment that fosters development and success.
+- Quickly adapt to new technologies and changing environments, demonstrated by successfully 
+**switching to a new tech stack** and integrating it into the team’s workflow within two weeks
+- Experienced in **Agile teams (Scrum, Kanban)**, where I have successfully implemented process improvements that reduced task completion time
+- Effectively collaborate with colleagues from diverse cultural backgrounds, ensuring clear communication and productive teamwork in international projects
+- Clearly explain complex technical concepts to clients and team members, improving system understanding and reducing errors
+- Rapidly analyze large volumes of data, optimizing information retrieval processes and reducing decision-making time
+- Proven **mentorship** experience, with the most mentees achieving skill improvements or career advancements through structured training and support
 
 ***
 
@@ -240,8 +239,9 @@ and facilitate understanding among colleagues.
 ***
 ## <p align="center">💻 About:</p>
 <p>
-I prioritize my professional growth, which is why I constantly learn new technologies and participate in hackathons to stay up to date with the latest trends.
-Moreover, I gladly mentor others to help them improve their skills and achieve their career goals.
+Continuously develop my professional skills by learning new technologies and participating in hackathons, 
+which has led to the successful delivery of dozens of projects and improvement of expertise across multiple domains. 
+Actively mentor colleagues, with most achieving promotions or significantly enhancing their technical competencies.
 </p>
 
 ***
