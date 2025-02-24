@@ -224,18 +224,18 @@ justification and demonstrating system reliability
 
 ***
 ## <p align="center">🏆 Achievements:</p>
-  * Finalist <a href="https://i.moscow/lct" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2024</a>
+  * Finalist of <a href="https://i.moscow/lct" target="_blank">"LEADERS OF DIGITAL TRANSFORMATION 2024"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Certificate</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Diploma</a>
-  * Finalist <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2023</a>
+  * Finalist of <a href="https://leaders2023.innoagency.ru/task_2" target="_blank">"LEADERS OF DIGITAL TRANSFORMATION 2023"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_certificate.pdf" target="_blank">Certificate</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders2023_diplom.pdf" target="_blank">Diploma</a>
-  * Finalist <a href="https://i.moscow/lct/krasnodar" target="_blank">LEADERS OF DIGITAL TRANSFORMATION 2023 Krasnodar Region</a>
+  * Finalist of <a href="https://i.moscow/lct/krasnodar" target="_blank">"LEADERS OF DIGITAL TRANSFORMATION 2023 Krasnodar Region"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_certificate.pdf" target="_blank">Certificate</a>
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/leaders_2023_krasnodar_diplom.pdf" target="_blank">Diploma</a>
-  * Hackathon <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">EVRAZ 2.0</a>
+  * <a href="https://xn--80aaaairqt2ajzt9a.xn--p1ai/" target="_blank">EVRAZ 2.0</a> Hackathon
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/evraz.pdf" target="_blank">Certificate</a>
-  * Online Hackathon <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">SOVCOMBANK_TEAM_CHALLENGE 2022</a>
+  * <a href="https://codenrock.com/contests/scbteamchallenge-codenrock/#/" target="_blank">SOVCOMBANK TEAM CHALLENGE 2022</a> Hackathon
     * <a href="https://github.com/OptikRUS/resume/blob/master/files/Sovcombank.pdf" target="_blank">Certificate</a>
 
 
