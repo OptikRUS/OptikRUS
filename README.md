@@ -71,7 +71,7 @@ and scalable financial data collection and analysis
 - Developed a file upload microservice with **S3 and MinIO** support, implementing metadata caching in PostgreSQL, 
 which reduced **file access time by 40%** and **decreased storage load**
 
-**Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, MongoDB, Docker, S3 (Amazon, MinIO), GitHub, Trello
+**Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
 ---
 **Project**: Desktop application for automatic license plate recognition
