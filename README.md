@@ -87,15 +87,16 @@ and API interactions, improving detection speed by 40%
 
 ---
 **Project**: Mobile Application for Regulatory Authorities
-- Preparing infrastructure for automatic deployment
-- Task decomposition and estimation (leadership)
-- Designing the application architecture
-- Developing the API for the mobile app
-- Developing the admin panel for the application
-- Implementing calendar slot management for administrators
-- Integrating the third-party Zoom service
-- Implementing user access control for the application
-- Technical presentation of the project for the product owner
+- Set up infrastructure for automated deployment by implementing CI/CD with GitLab CI and Docker, reducing deployment time
+- Led task decomposition and estimation as a team lead, defining clear requirements and ensuring balanced workload distribution
+- Designed the mobile application architecture with scalability and fault tolerance in mind
+- Developed a high-performance and secure API for the mobile application
+- Built an administrative panel using Django, streamlining user and data management and reducing routine operations for administrators
+- Implemented calendar slot management in the admin panel, automating scheduling and preventing conflicts
+- Integrated Zoom services, enabling automatic video conference creation and calendar synchronization
+- Configured a role-based access control system to ensure secure data access and prevent unauthorized modifications
+- Successfully defended the project before stakeholders by presenting a well-reasoned architectural 
+justification and demonstrating system reliability
 
 **Tech Stack**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
 
@@ -105,19 +106,18 @@ and API interactions, improving detection speed by 40%
 <img height="30" src="https://artw.ru/local/templates/main_new/assets/images/logo-white.svg" alt="ARTW">
 </a>
 
-**Project**: Website for Brokers and Clients in the Real Estate Sector
-- Developing a mortgage calculation service
-- Integrating third-party services (AmoCRM, DvizhApi)
-- Supporting and enhancing the application’s admin panel
-- Developing and maintaining user dashboards
-- Acted as a lead (planning, decomposition, releases)
-- Refactoring old functionality and rewriting legacy code
-- Improving development team processes
-- Promoting test coverage adoption
-- Developing tests to cover key aspects of the codebase
-- Migrating data between services
-- Cross-code review
-- Introducing linters into the development process (final contribution)
+**Project**: Real Estate Brokerage Platform for Clients and Brokers
+- Developed a mortgage calculation service, automating loan condition selection
+- ntegrated third-party services (AmoCRM, DvizhApi) to synchronize client data and streamline broker workflows
+- Maintained and improved the admin panel, optimizing UI/UX
+- Developed and maintained user dashboards
+- Took on team lead responsibilities, including task planning, feature decomposition, and release management to ensure stable updates
+- Refactored legacy functionality and rewrote outdated code, reducing technical debt and improving system performance
+- Advocated for test coverage, increasing it from 0% to 50%, leading to a significant reduction in defects
+- Developed tests for critical parts of the codebase, enhancing system reliability and accelerating bug detection
+- Managed data migration between services, minimizing downtime and ensuring data integrity
+- Conducted cross-reviews to improve code quality
+- Introduced linters into the development workflow as a final improvement before transitioning out of the project
 
 **Tech Stack**: Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, Gitlab, Docker, Sentry, YouTrack
 
@@ -125,40 +125,41 @@ and API interactions, improving detection speed by 40%
 
 ## NDA
 **Project**: Telegram Bot for Photographer Services with Admin Panel (Lead Role)
-- Setting up infrastructure for automatic deployment
-- Designing the application’s database
-- Task decomposition, estimation, deployment, and related processes
-- Mentorship and coaching
-- Code review
-- Communication with the product owner
+- Set up infrastructure for automated deployment by implementing CI/CD with Docker and GitHub
+- Designed the database to provide an optimized structure for client appointment scheduling
+- Managed task decomposition, estimation, and release planning
+- Mentored and coached developers, improving their skills and boosting team productivity
+- Conducted code reviews to enhance code quality and prevent critical issues
+- Communicated with the client to clarify requirements and present results
 
 **Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
 
 ---
-**Project**: Application for Displaying Instrument Readings (Landing Page Style)
-- Developing a Kafka consumer service
-- Implementing data caching from Kafka into MongoDB
-- Developing endpoints for displaying cached data
-- Deploying and launching the service
+**Project**: Dashboard Application for Device Metrics (Landing Page Style)
+- Developed a Kafka consumer service to ensure stable data transmission from devices
+- Implemented data caching from **Kafka** into **MongoDB**, reducing response time and lowering broker load
+- Built a REST API to display cached data, providing easy access with filtering and pagination
+- Configured deployment and service rollout using Docker and CI/CD
 
 **Tech Stack**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
 
 ---
 **Project**: NDA | Mobile Application
-- Designing the database
-- Setting up infrastructure for automatic deployment
-- Supporting and developing new functionality
-- Implementing the service API
-- Developing and improving the administrative interface
-- Integrating third-party services
+- Designed the database, optimizing data storage structure
+- Set up infrastructure for automated deployment by implementing CI/CD with Docker and GitLab CI
+- Maintained and developed new functionality
+- Developed a REST API to ensure fast and secure data exchange between the mobile application and the server
+- Built and improved the admin interface, simplifying data management and reducing support workload
+- Integrated third-party services
 
 **Tech Stack**: Python (Django DRF), PostgreSQL, Docker, GitHub, Trello
 
 ---
-**Project**: Website Admin Panel for Requests to Third-Party Services
-- Developing an administrative interface for making requests to third-party services
-- Integrating third-party APIs
-- Designing the database
+**Project**: Admin Panel for External Service Requests
+- Integrated the Dadata API into the admin panel, automating data search and validation
+- Implemented caching for search queries to external APIs, reducing load on third-party services and improving response time
+- Designed a database with optimized storage for search queries, minimizing data footprint
+- Developed a scheduler for automatic cleanup of outdated data, ensuring data relevance and optimizing disk space usage
 
 **Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
