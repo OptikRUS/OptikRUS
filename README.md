@@ -110,7 +110,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ***
 
 <a href="https://careers.otr.ru/" target="_blank">
-<img height="50" src="https://careers.otr.ru/local/templates/otr/img/logo.svg" alt="OTR">
+<img height="50" src="https://static.tildacdn.com/tild3439-3464-4030-b163-636236366533/Group_615.svg" alt="OTR">
 </a>
 
 **Backend Developer** | 2018 – 2021
