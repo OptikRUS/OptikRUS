@@ -5,8 +5,7 @@
 
 ## Value Proposition
 
-Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** on 20M-row datasets, architected event-driven platforms processing **19M+ Kafka events**, and drove **zero-downtime deployments** across 15–20 microservices. Force multiplier: mentored 4+ engineers to promotion, embedded TDD/BDD culture that cut bug rates by **70%**, and standardized microservice templates that halved deployment time. Master's in Electronics & Nanoelectronics with a Law certification — a unique edge for compliance-aware system design.
-
+Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** on 20M-row datasets, architected event-driven platforms processing **19M+ Kafka events**, and drove **zero-downtime deployments** across 15–20 microservices. Force multiplier: mentored 4+ engineers to promotion, embedded TDD/BDD culture that cut bug rates by **70%**, and standardized microservice templates that halved deployment time.
 ## Contacts:
 
 <p align='left'>
@@ -110,17 +109,18 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 ***
 
-## NDA
+<a href="https://careers.otr.ru/" target="_blank">
+<img height="50" src="https://careers.otr.ru/local/templates/otr/img/logo.svg" alt="OTR">
+</a>
 
-**Project**: Telegram Bot for Photographer Services with Admin Panel (Tech Lead)
-- Architected a booking system with PostgreSQL transaction-based concurrency control, eliminating double-booking edge cases
-- Deployed CI/CD pipeline with Docker and GitHub Actions for automated builds and releases
-- Designed a domain model (users → slots → bookings) optimized for scheduling workflows
-- Implemented async notification scheduler with batch delivery, working within Telegram API rate limits
-- Mentored a junior developer, introduced Git-based workflows (replacing zip-archive handoffs)
-- Managed client communication, task decomposition, and release planning end-to-end
+**Backend Developer** | 2018 – 2021
 
-**Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
+**Project**: Admin Panel with Dadata API Integration
+- Implemented a read-through cache for Dadata API using PostgreSQL with normalized query keys and B-tree indexing, eliminating duplicate external calls
+- Designed a scheduler for automatic cleanup of stale cached data, controlling database growth
+- Architected the caching layer with intentional simplicity (PostgreSQL over Redis) — appropriate for ~100–500 requests/day workload
+
+**Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
 ---
 **Project**: IoT Dashboard — Device Metrics (Near Real-Time)
@@ -132,7 +132,18 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 **Tech Stack**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
 
 ---
-**Project**: NDA | Mobile Application
+**Project**: Telegram Bot for Photographer Services with Admin Panel (Tech Lead)
+- Architected a booking system with PostgreSQL transaction-based concurrency control, eliminating double-booking edge cases
+- Deployed CI/CD pipeline with Docker and GitHub Actions for automated builds and releases
+- Designed a domain model (users → slots → bookings) optimized for scheduling workflows
+- Implemented async notification scheduler with batch delivery, working within Telegram API rate limits
+- Mentored a junior developer, introduced Git-based workflows (replacing zip-archive handoffs)
+- Managed client communication, task decomposition, and release planning end-to-end
+
+**Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
+
+---
+**Project**: Mobile Application Backend
 - Designed database schema optimized for mobile data access patterns
 - Deployed CI/CD infrastructure with Docker and GitLab CI
 - Developed a REST API ensuring fast and secure data exchange between mobile client and server
@@ -140,14 +151,6 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - Integrated third-party services for extended functionality
 
 **Tech Stack**: Python (Django DRF), PostgreSQL, Docker, GitHub, Trello
-
----
-**Project**: Admin Panel with External API Integration
-- Implemented a read-through cache for Dadata API using PostgreSQL with normalized query keys and B-tree indexing, eliminating duplicate external calls
-- Designed a scheduler for automatic cleanup of stale cached data, controlling database growth
-- Architected the caching layer with intentional simplicity (PostgreSQL over Redis) — appropriate for ~100–500 requests/day workload
-
-**Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
 ***
 
