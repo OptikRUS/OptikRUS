@@ -3,7 +3,7 @@
 # Kirill M.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
 ### Senior Backend Engineer👨‍💻 | Python3🐍 FastAPI Asyncio | Infrastructure & Architecture
 
-## Value Proposition
+## Profile
 
 Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** on 20M-row datasets, architected event-driven platforms processing **19M+ Kafka events**, and drove **zero-downtime deployments** across 15–20 microservices. Force multiplier: mentored 4+ engineers to promotion, embedded TDD/BDD culture that cut bug rates by **70%**, and standardized microservice templates that halved deployment time.
 ## Contacts:
