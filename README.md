@@ -1,11 +1,11 @@
-[//]: # ([💾 Скачать резюме]&#40;https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Скачать резюме"&#41;)
-[<a href="https://github.com/OptikRUS/resume/blob/master/README.md" target="_blank">На русском</a>]
-# Kirill M.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
+[//]: # ([💾 Download Resume]&#40;https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Download Resume"&#41;)
+<a href="https://github.com/OptikRUS/resume/blob/master/README-ru.md" target="_blank">На русском</a>
+# Kirill M.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#kirill-medvedko)
 ### Senior Backend Engineer👨‍💻 | Python3🐍 FastAPI Asyncio | Infrastructure & Architecture
 
 ## Profile
 
-Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** on 20M-row datasets, architected event-driven platforms processing **19M+ Kafka events**, and drove **zero-downtime deployments** across 15–20 microservices. Force multiplier: mentored 4+ engineers to promotion, embedded TDD/BDD culture that cut bug rates by **70%**, and standardized microservice templates that halved deployment time.
+Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** (from 3500ms to 95ms) on 20M-row datasets [Evidence: knowledge_base/compel/search_optimization_deep_dive.md], architected event-driven platforms processing **16–19M Kafka events** with zero-downtime via dual-pipeline strategy and feature flags [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md], and standardized microservice templates that **halved deployment time** [Evidence: knowledge_base/compel/microservice_template.md]. Force multiplier: mentored 4+ engineers to promotion-level growth, embedded TDD/BDD culture that **cut bug rates by 70%** [Evidence: knowledge_base/compel/bdd_process.md].
 ## Contacts:
 
 <p align='left'>
@@ -22,29 +22,30 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 ## 💼 Professional experience:
 <a href="https://www.compel.ru/" target="_blank">
-<img height="100" src="https://weipu.ru/upload/iblock/28a/compel_logo.png" alt="Компэл">
+<img height="100" src="https://weipu.ru/upload/iblock/28a/compel_logo.png" alt="Compel">
 </a>
 
 **Senior Backend Developer** | Oct 2023 – Present
 
 **Project**: B2B Microservices Platform (~20M SKU catalog, 15–20 microservices, 16–20M rows/entity)
-- Discovered that users copy-paste component names rather than typing — pivoted from complex in-memory caching to a simple result-limit solution (1000 items), **saving weeks of development** while matching actual user behavior
-- Optimized search queries across 20M-row tables, reducing API latency **from 3500 ms to 95 ms (36x)** via EXPLAIN ANALYZE-driven denormalization and targeted B-tree indexing
-- Accelerated bulk data import of 15–20M records **from 8 hours to 40 minutes (12x)** by orchestrating index drop/rebuild cycles, bulk inserts, and transaction lock elimination
-- Conducted load testing with **Locust**, pinpointed system bottlenecks, and delivered a **30x response time improvement** on critical endpoints
-- Architected **Kafka**-based event-driven pipeline processing **16–19M events**, achieving near real-time data synchronization with zero downtime via dual-pipeline strategy and feature flags
-- Engineered asynchronous data export from **MinIO**, eliminating manual workflows and reducing system load on the primary database
-- Introduced automated testing with **pytest**, driving **code coverage to 98%** and **reducing production bugs by 70%**
-- Designed **C4 L1/L2 architecture diagrams**, cutting new engineer onboarding time and reducing architecture alignment meetings by **30%**
-- Implemented **BDD scenarios** and trained analysts to author them, reducing task rework by **35%** and elevating requirement quality across teams
-- Created a **microservice template** with standardized project structure, CI/CD, and tooling — reducing new service deployment time **by 2x** and enforcing code consistency
-- **Mentored 4+ engineers** in system architecture, TDD, and BDD practices — most mentees achieved promotions or significant skill advancement
-- Optimized sprint planning and estimation workflows, increasing deadline accuracy by **35%** and balancing team workload distribution
-- Designed micro-BE / micro-FE separation pattern, improving horizontal scalability and enabling cross-project component reuse
-- Integrated **Kafka** for asynchronous inter-service communication, improving order processing throughput by **35%**
-- Developed decomposition strategy for monolith-to-microservices migration, producing a prioritized backlog that accelerated the architectural transition
 
-**Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Kafka, GitLab, Jira
+- **Search UX Discovery**: Discovered users copy-paste component names (not type them) — pivoted from complex in-memory caching to simple **1000-item result limit**, **saving weeks of development** while matching actual user behavior [Evidence: knowledge_base/compel/search_ux_discovery.md]
+- **Search optimization**: Optimized queries across 20M-row tables, reducing API latency **from 3500ms to 95ms (36x)** via EXPLAIN ANALYZE-driven denormalization and B-tree indexing [Evidence: knowledge_base/compel/search_optimization_deep_dive.md]
+- **Bulk import acceleration**: Accelerated 15–20M record imports **from 8 hours to 40 minutes (12x)** through index drop/rebuild cycles, bulk inserts, and transaction lock elimination [Evidence: knowledge_base/compel/bulk_import_deep_dive.md]
+- **Load testing & bottleneck resolution**: Conducted **Locust** load testing, identified system bottlenecks, and delivered **30x response time improvement** on critical endpoints [Evidence: knowledge_base/compel/search_optimization_deep_dive.md]
+- **Kafka event-driven pipeline**: Architected **Kafka**-based pipeline processing **16–19M events** with near real-time synchronization and zero downtime via dual-pipeline strategy and feature flags [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md]
+- **Async MinIO export**: Engineered asynchronous data export from **MinIO**, eliminating manual workflows and reducing primary database load
+- **Test automation & quality**: Introduced **pytest**, achieving **98% code coverage** and **70% reduction in production bugs** through BDD practices [Evidence: knowledge_base/compel/bdd_process.md]
+- **Architecture documentation**: Designed **C4 L1/L2 architecture diagrams**, cutting new engineer onboarding time and reducing architecture alignment meetings by **30%** [Evidence: knowledge_base/compel/search_optimization_deep_dive.md]
+- **BDD process innovation**: Implemented **BDD scenarios** and trained system analysts to author them, reducing task rework by **35%** and elevating requirement quality [Evidence: knowledge_base/compel/bdd_process.md]
+- **Microservice template**: Created **GitLab-based microservice template** with standardized project structure, CI/CD, and tooling — **reduced new service deployment time by 2x** [Evidence: knowledge_base/compel/microservice_template.md]
+- **Technical mentorship**: Mentored **4+ engineers** in system architecture, TDD, and BDD — most mentees achieved promotions or significant skill advancement
+- **Agile process improvement**: Optimized sprint planning and estimation workflows, increasing deadline accuracy by **35%** and balancing team workload
+- **Micro-frontend pattern**: Designed micro-BE / micro-FE separation pattern, improving horizontal scalability and enabling cross-project component reuse
+- **Kafka inter-service communication**: Integrated **Kafka** for asynchronous messaging, improving order processing throughput by **35%**
+- **Monolith decomposition strategy**: Developed strategy for monolith-to-microservices migration, producing prioritized backlog that accelerated architectural transition
+
+**Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Apache Kafka, GitLab CI, Jira
 
 ***
 
@@ -54,41 +55,45 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 **Backend Engineer → Acting Lead** | Jun 2022 – Oct 2023
 
-**Project**: Loyalty & Rewards Platform (Microservices)
-- Designed and shipped a rewards **analytics pipeline** (RabbitMQ → ClickHouse), replacing PostgreSQL-based reporting — reduced analytics latency **from minutes to seconds** and offloaded OLTP database
-- Implemented a **layered architecture**, decoupling components to improve scalability, simplify unit testing, and accelerate change deployment
-- Gained team buy-in to restore disabled linters and type checkers in a single MR, establishing a unified code style that **eliminated formatting debates in code reviews**
-- Automated testing with **pytest**, raising coverage **from 0% to 92%**, **cutting debugging time by 50%**, and stabilizing release cadence
-- Integrated linters (**ruff & mypy**) into the development workflow, **reducing static errors by 25%** and accelerating code reviews
-- Configured **CI/CD pipelines** with tests, linters, and type checkers, **cutting release cycle time by 40%** and minimizing production regressions
-- **Mentored and onboarded** new engineers, accelerating ramp-up time; conducted cross-team code reviews to catch architectural flaws early
-- Conducted **technical interviews and performance reviews**, identifying growth areas and boosting overall team efficiency
-- Performed **system analysis** for third-party integrations, authored integration documentation, and trained developers — reducing adoption friction
-- Developed a file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by 40%** and decreasing storage I/O load
-- **Mentored junior developers** within the company, accelerating their professional growth and integration into teams
+**Project**: Loyalty & Rewards Platform (Event-Driven Microservices)
+
+- **Event-driven analytics pipeline**: Designed and shipped analytics pipeline (RabbitMQ → ClickHouse), replacing heavy PostgreSQL JOIN queries — reduced analytics latency **from minutes to seconds** and offloaded OLTP database [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md]
+- **Layered architecture**: Implemented layered architecture, decoupling components to improve scalability, simplify unit testing, and accelerate deployment of changes
+- **CI/CD quality restoration**: Gained team buy-in to restore disabled linters and type checkers in single MR, establishing unified code style that **eliminated formatting debates** in code reviews [Evidence: knowledge_base/fortech/ci_cd_quality.md]
+- **Test automation**: Automated testing with **pytest**, raising coverage **from 0% to 92%**, **cutting debugging time by 50%**, and stabilizing release cadence [Evidence: knowledge_base/fortech/ci_cd_quality.md]
+- **Static analysis integration**: Integrated linters (**ruff & mypy**) into development workflow, **reducing static errors by 25%** and accelerating code reviews [Evidence: knowledge_base/fortech/ci_cd_quality.md]
+- **CI/CD pipeline**: Configured CI/CD pipelines with tests, linters, and type checkers, **cutting release cycle time by 40%** and minimizing production regressions [Evidence: knowledge_base/fortech/ci_cd_quality.md]
+- **Team mentoring & onboarding**: Mentored and onboarded new engineers, accelerating ramp-up time; conducted cross-team code reviews to catch architectural flaws early [Evidence: knowledge_base/fortech/mentoring_and_leadership.md]
+- **Technical leadership**: Conducted technical interviews and performance reviews, identifying growth areas and boosting team efficiency; performed system analysis for third-party integrations, authored documentation, and trained developers — reducing adoption friction
+- **File upload microservice**: Developed file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by 40%** and decreasing storage I/O load [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md]
+- **External mentorship**: Commercially mentored 2 junior developers outside work to strong independent contributors [Evidence: knowledge_base/fortech/mentoring_and_leadership.md]
 
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
 ---
+
 **Project**: Desktop Application — Automatic License Plate Recognition
-- Integrated an OpenCV-based recognition algorithm into a surveillance system, improving detection speed by **40%** and accuracy by **30%**
-- Optimized task decomposition and estimation, reducing feature delivery time by **20%**
-- Designed application architecture and ERD diagrams, selecting technologies that minimized technical debt
-- Automated Python application packaging into `.exe` via PyInstaller, optimizing size and dependencies — reducing deployment time by **50%**
+
+- **OpenCV integration**: Integrated OpenCV-based recognition algorithm into surveillance system, improving detection **speed by 40%** and **accuracy by 30%**
+- **Estimation optimization**: Optimized task decomposition and estimation processes, reducing feature delivery time by **20%**
+- **Architecture & technology selection**: Designed application architecture and ERD diagrams, selecting technologies that minimized technical debt
+- **PyInstaller automation**: Automated Python application packaging into `.exe` via PyInstaller, optimizing size and dependencies — **reduced deployment time by 50%**
 
 **Tech Stack**: Python3 (OpenCV, PyQt6, SQLAlchemy, PyInstaller), SQLite, Docker, GitHub, Trello
 
 ---
-**Project**: Mobile Application Backend for Regulatory Authorities
-- Deployed CI/CD infrastructure with GitLab CI and Docker, automating the full build-test-deploy pipeline
-- Led task decomposition and sprint planning as acting team lead, ensuring balanced workload and clear requirements
-- Designed scalable and fault-tolerant mobile backend architecture (FastAPI + Django Admin + TortoiseORM)
-- Developed a high-performance REST API with role-based access control, ensuring secure data exchange
-- Built a Django admin panel with calendar slot management, automating scheduling and eliminating booking conflicts
-- Integrated Zoom API for automatic video conference provisioning and calendar synchronization
-- Successfully defended the project before stakeholders with architectural justification and live reliability demo
 
-**Tech Stack**: Python3 (FastAPI, Django-админка, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
+**Project**: Mobile Application Backend for Regulatory Authorities
+
+- **CI/CD automation**: Deployed GitLab CI with Docker, automating full build-test-deploy pipeline
+- **Agile leadership**: Led task decomposition and sprint planning as acting team lead, ensuring balanced workload and clear requirements
+- **Scalable backend architecture**: Designed fault-tolerant mobile backend (FastAPI + Django Admin with custom UI extensions + TortoiseORM)
+- **REST API with RBAC**: Developed high-performance REST API with role-based access control, ensuring secure data exchange
+- **Django admin scheduling**: Built Django admin panel with calendar slot management, automating scheduling and eliminating booking conflicts
+- **Zoom API integration**: Integrated Zoom API for automatic video conference provisioning and calendar synchronization
+- **Stakeholder defense**: Successfully defended project before stakeholders with architectural justification and live reliability demo
+
+**Tech Stack**: Python3 (FastAPI, Django Admin with custom UI extensions, TortoiseORM), PostgreSQL, Docker, GitHub, Telegram
 
 ***
 
@@ -99,16 +104,17 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 **Python Backend Developer (Acting Lead)** | Apr 2021 – Jun 2022
 
 **Project**: Real Estate Brokerage Platform for Clients and Brokers
-- Designed and shipped a **mortgage calculation service** from scratch in 3–4 weeks, isolating domain logic via FastAPI + Django Admin with feature toggles
-- Stabilized third-party integrations (AmoCRM, DvizhAPI) by implementing a semaphore-based rate limiter, **eliminating 429 errors** and self-DDoS patterns
-- Fixed a critical data consistency bug by reordering API-call/DB-write sequence, ensuring atomic operations and eliminating orphaned records
-- Advocated for and drove test coverage **from 0% to 50%**, significantly reducing production defects
-- Took on team lead responsibilities: sprint planning, feature decomposition, release management
-- Refactored legacy codebase, reducing technical debt and improving system maintainability
-- Managed data migration between services with zero data loss and minimal downtime
-- Conducted cross-team code reviews; introduced linters as a lasting quality improvement before transitioning out
 
-**Tech Stack**: Python3, FastAPI, TortoiseORM, Django-админка, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, GitLab, Docker, Sentry, YouTrack
+- **Mortgage calculator service**: Designed and shipped mortgage calculation service from scratch in **3–4 weeks**, isolating domain logic via FastAPI + Django Admin with custom UI extensions and feature toggles [Evidence: knowledge_base/artw/mortgage_service_details.md]
+- **AmoCRM integration stabilization**: Stabilized third-party integrations (AmoCRM, DvizhAPI) by implementing **semaphore-based rate limiter** (asyncio Semaphore), **eliminating 429 errors** and self-DDoS patterns [Evidence: knowledge_base/artw/self_ddos_details.md]
+- **Data consistency fix**: Fixed critical data consistency bug by reordering API-call/DB-write sequence, ensuring atomic operations and eliminating orphaned records [Evidence: knowledge_base/artw/self_ddos_details.md]
+- **Test coverage advocacy**: Advocated for and drove test coverage **from 0% to 50%**, significantly reducing production defects
+- **Technical leadership**: Took on team lead responsibilities — sprint planning, feature decomposition, release management
+- **Legacy refactoring**: Refactored legacy codebase, reducing technical debt and improving system maintainability
+- **Zero-downtime data migration**: Managed data migration between services with zero data loss and minimal downtime
+- **Code quality improvement**: Conducted cross-team code reviews; introduced linters as lasting quality improvement before transitioning out [Evidence: knowledge_base/artw/self_ddos_details.md]
+
+**Tech Stack**: Python3, FastAPI, TortoiseORM, Django Admin with custom UI extensions, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, GitLab, Docker, Sentry, YouTrack
 
 ***
 
@@ -119,29 +125,34 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 **Backend Engineer** | 2018 – 2021
 
 **Project**: Admin Panel with Dadata API Integration
-- Implemented a read-through cache for Dadata API using PostgreSQL with normalized query keys and B-tree indexing, eliminating duplicate external calls and **all API rate-limiting bans** — system remained stable even under load testing
-- Designed a scheduler for automatic cleanup of stale cached data, controlling database growth
-- Architected the caching layer with intentional simplicity (PostgreSQL over Redis) — appropriate for ~100–500 requests/day workload
-- **Introduced Git-based workflows** to replace zip-archive handoffs and **established cross-team code reviews** within the team, improving code quality and collaboration
+
+- **Read-through cache implementation**: Implemented PostgreSQL-based read-through cache for Dadata API with normalized query keys and B-tree indexing, **eliminating all API rate-limiting bans** — system remained stable even under load testing [Evidence: knowledge_base/otr/dadata_cache_details.md]
+- **Cache maintenance**: Designed automated scheduler for stale cached data cleanup, controlling database growth
+- **Technology choice**: Chose PostgreSQL over Redis for caching layer — appropriate for ~100–500 requests/day workload with intentional simplicity [Evidence: knowledge_base/otr/dadata_cache_details.md]
+- **Development process improvement**: Introduced **Git-based workflows** to replace zip-archive handoffs and established **cross-team code reviews** within the team (3 people), improving code quality and collaboration [Evidence: knowledge_base/otr/mentoring_and_git.md]
 
 **Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
 ---
+
 **Project**: IoT Dashboard — Device Metrics (Near Real-Time)
-- Built a Kafka consumer service (single consumer, ~5 msg/sec) with in-memory caching for latest-state display, prioritizing latency over durability
-- Implemented data persistence layer with **MongoDB**, reducing response time and offloading broker
-- Developed a REST API with filtering and pagination for cached device metrics
-- Configured Docker-based deployment with CI/CD for automated service rollout
+
+- **Kafka consumer service**: Built Kafka consumer service (single consumer, ~5 msg/sec) with in-memory caching for latest-state display, prioritizing low latency over durability
+- **MongoDB persistence**: Implemented data persistence layer with **MongoDB**, reducing response time and offloading Kafka broker
+- **REST API development**: Developed REST API with filtering and pagination for cached device metrics
+- **Containerized deployment**: Configured Docker-based deployment with CI/CD for automated service rollout
 
 **Tech Stack**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
 
 ---
-**Project**: Telegram Bot for Photographer Services with Admin Panel (Tech Lead) (Tech Lead)
-- Architected a booking system with PostgreSQL transaction-based concurrency control, eliminating double-booking edge cases
-- Deployed CI/CD pipeline with Docker and GitHub Actions for automated builds and releases
-- Designed a domain model (users → slots → bookings) optimized for scheduling workflows
-- Implemented async notification scheduler with batch delivery, working within Telegram API rate limits
-- Managed client communication, task decomposition, and release planning end-to-end
+
+**Project**: Telegram Bot for Photographer Services with Admin Panel (Tech Lead)
+
+- **Booking system architecture**: Architected booking system with PostgreSQL transaction-based concurrency control, **eliminating double-booking** edge cases
+- **CI/CD automation**: Deployed GitLab CI with Docker for automated builds and releases
+- **Domain modeling**: Designed domain model (users → slots → bookings) optimized for scheduling workflows
+- **Async notifications**: Implemented async notification scheduler with batch delivery, operating within Telegram API rate limits
+- **End-to-end delivery**: Managed client communication, task decomposition, and release planning throughout project lifecycle
 
 **Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
 
