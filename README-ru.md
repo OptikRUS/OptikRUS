@@ -1,5 +1,5 @@
 [//]: # ([💾 Скачать резюме]&#40;https://disk.yandex.ru/i/1XMum6k9oq2T7Q "Скачать резюме"&#41;)
-<a href="https://github.com/OptikRUS/resume/blob/master/README.md" target="_blank">На английском</a>
+<a href="https://github.com/OptikRUS" target="_blank">На английском</a>
 
 # Kirill M.[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&duration=2500&lines=%F0%9F%91%8B;+)](#кирилл-медведко)
 ### Senior Backend Engineer👨‍💻 | Python3🐍 FastAPI Asyncio | Infrastructure & Architecture
