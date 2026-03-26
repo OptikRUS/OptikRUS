@@ -39,7 +39,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - **Architecture documentation**: Designed **C4 L1/L2 architecture diagrams**, cutting new engineer onboarding time and reducing architecture alignment meetings by **30%** <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->
 - **BDD process innovation**: Implemented **BDD scenarios** and trained system analysts to author them, reducing task rework by **35%** and elevating requirement quality <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
 - **Microservice template**: Created **GitLab-based microservice template** with standardized project structure, CI/CD, and tooling — **reduced new service deployment time by 2x** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->
-- **Technical mentorship**: Mentored **4+ engineers** in system architecture, TDD, and BDD — most mentees achieved promotions or significant skill advancement
+- **Technical mentorship**: Mentored **3 system analysts** in BDD practices and system architecture — most achieved significant skill advancement <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
 - **Agile process improvement**: Optimized sprint planning and estimation workflows, increasing deadline accuracy by **35%** and balancing team workload
 - **Micro-frontend pattern**: Designed micro-BE / micro-FE separation pattern, improving horizontal scalability and enabling cross-project component reuse
 - **Kafka inter-service communication**: Integrated **Kafka** for asynchronous messaging, improving order processing throughput by **35%**
@@ -65,7 +65,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - **CI/CD pipeline**: Configured CI/CD pipelines with tests, linters, and type checkers, **cutting release cycle time by 40%** and minimizing production regressions <!-- [Evidence: knowledge_base/fortech/ci_cd_quality.md] -->
 - **Team mentoring & onboarding**: Mentored and onboarded new engineers, accelerating ramp-up time; conducted cross-team code reviews to catch architectural flaws early <!-- [Evidence: knowledge_base/fortech/mentoring_and_leadership.md] -->
 - **Technical leadership**: Conducted technical interviews and performance reviews, identifying growth areas and boosting team efficiency; performed system analysis for third-party integrations, authored documentation, and trained developers — reducing adoption friction
-- **File upload microservice**: Developed file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by 40%** and decreasing storage I/O load <!-- [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md] -->
+- **File upload microservice**: Developed file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by ~40%** and decreasing storage I/O load <!-- [Evidence: knowledge_base/fortech/file_upload_minio_migration.md] -->
 - **External mentorship**: Commercially mentored 2 junior developers outside work to strong independent contributors <!-- [Evidence: knowledge_base/fortech/mentoring_and_leadership.md] -->
 
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
