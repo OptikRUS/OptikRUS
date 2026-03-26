@@ -65,6 +65,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - Conducted **technical interviews and performance reviews**, identifying growth areas and boosting overall team efficiency
 - Performed **system analysis** for third-party integrations, authored integration documentation, and trained developers — reducing adoption friction
 - Developed a file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by 40%** and decreasing storage I/O load
+- **Mentored junior developers** within the company, accelerating their professional growth and integration into teams
 
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
@@ -121,6 +122,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - Implemented a read-through cache for Dadata API using PostgreSQL with normalized query keys and B-tree indexing, eliminating duplicate external calls and **all API rate-limiting bans** — system remained stable even under load testing
 - Designed a scheduler for automatic cleanup of stale cached data, controlling database growth
 - Architected the caching layer with intentional simplicity (PostgreSQL over Redis) — appropriate for ~100–500 requests/day workload
+- **Introduced Git-based workflows** to replace zip-archive handoffs and **established cross-team code reviews** within the team, improving code quality and collaboration
 
 **Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
@@ -139,7 +141,6 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - Deployed CI/CD pipeline with Docker and GitHub Actions for automated builds and releases
 - Designed a domain model (users → slots → bookings) optimized for scheduling workflows
 - Implemented async notification scheduler with batch delivery, working within Telegram API rate limits
-- Mentored junior developers and introduced Git-based workflows (replacing zip-archive email handoffs), established cross-team code reviews within a 3-person team
 - Managed client communication, task decomposition, and release planning end-to-end
 
 **Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
@@ -181,6 +182,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ![BDD](https://img.shields.io/badge/BDD-7B68EE?style=for-the-badge)
 ![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
+![Test Coverage](https://img.shields.io/badge/Test%20Coverage-92%25-brightgreen?style=for-the-badge)
 
 **Tools & Platforms**
 
@@ -203,7 +205,11 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ## 🤝 Soft skills:
-- **Force Multiplier**: mentored 4+ engineers (developers and system analysts) to promotion-level growth through structured TDD/BDD training, architecture workshops, and requirements engineering (ERD, Swagger, functional specs)
+- **Force Multiplier**: mentored 4+ engineers to promotion-level growth through structured TDD/BDD training, architecture workshops, and requirements engineering
+- **Mentorship track record**:
+  - **Compel**: trained 3 system analysts in ERD, Swagger, and BDD practices, elevating requirement quality across teams
+  - **Fortech** (outside work): commercially mentored 2 junior developers to strong independent contributors
+  - **OTR**: mentored 2 junior developers in system architecture and TDD
 - Adapt to new tech stacks within two weeks — demonstrated by shipping production features on unfamiliar frameworks during first sprint
 - Drive **Agile process improvements** (Scrum, Kanban) that measurably reduced task completion time and improved sprint predictability by **35%**
 - Communicate complex architectural decisions to non-technical stakeholders — successfully defended projects before executive review boards
