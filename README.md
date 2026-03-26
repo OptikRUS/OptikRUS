@@ -229,6 +229,9 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 ***
 ## <p align="center">🏆 Achievements:</p>
+  * Finalist of <a href="https://i.moscow/lct" target="_blank">"LEADERS OF DIGITAL TRANSFORMATION 2025"</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2025_msk.pdf" target="_blank">Certificate</a>
+    * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2025_msk.pdf" target="_blank">Diploma</a>
   * Finalist of <a href="https://i.moscow/lct" target="_blank">"LEADERS OF DIGITAL TRANSFORMATION 2024"</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_certificate_lct_2024_msk.pdf" target="_blank">Certificate</a>
     * <a href="https://github.com/OptikRUS/resume/blob/files/files/finalist_diploma_lct_2024_msk.pdf" target="_blank">Diploma</a>
@@ -250,7 +253,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 Senior Backend Engineer specializing in high-load distributed systems, event-driven architectures, and developer experience.
 Delivered measurable business impact across B2B marketplaces, fintech analytics, real estate platforms, and government systems.
 Proven track record of transforming engineering culture through mentorship, test-driven development, and architectural standards —
-consistently turning teams into higher-performing units. 3x hackathon finalist (Leaders of Digital Transformation).
+consistently turning teams into higher-performing units. 4x hackathon finalist (Leaders of Digital Transformation).
 </p>
 
 ***
