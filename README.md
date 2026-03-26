@@ -5,7 +5,7 @@
 
 ## Profile
 
-Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** (from 3500ms to 95ms) on 20M-row datasets [Evidence: knowledge_base/compel/search_optimization_deep_dive.md], architected event-driven platforms processing **16–19M Kafka events** with zero-downtime via dual-pipeline strategy and feature flags [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md], and standardized microservice templates that **halved deployment time** [Evidence: knowledge_base/compel/microservice_template.md]. Force multiplier: mentored 4+ engineers to promotion-level growth, embedded TDD/BDD culture that **cut bug rates by 70%** [Evidence: knowledge_base/compel/bdd_process.md].
+Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** (from 3500ms to 95ms) on 20M-row datasets <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->, architected event-driven platforms processing **16–19M Kafka events** with zero-downtime via dual-pipeline strategy and feature flags <!-- [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md] -->, and standardized microservice templates that **halved deployment time** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->. Force multiplier: mentored 4+ engineers to promotion-level growth, embedded TDD/BDD culture that **cut bug rates by 70%** <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->.
 ## Contacts:
 
 <p align='left'>
@@ -29,16 +29,16 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 **Project**: B2B Microservices Platform (~20M SKU catalog, 15–20 microservices, 16–20M rows/entity)
 
-- **Search UX Discovery**: Discovered users copy-paste component names (not type them) — pivoted from complex in-memory caching to simple **1000-item result limit**, **saving weeks of development** while matching actual user behavior [Evidence: knowledge_base/compel/search_ux_discovery.md]
-- **Search optimization**: Optimized queries across 20M-row tables, reducing API latency **from 3500ms to 95ms (36x)** via EXPLAIN ANALYZE-driven denormalization and B-tree indexing [Evidence: knowledge_base/compel/search_optimization_deep_dive.md]
-- **Bulk import acceleration**: Accelerated 15–20M record imports **from 8 hours to 40 minutes (12x)** through index drop/rebuild cycles, bulk inserts, and transaction lock elimination [Evidence: knowledge_base/compel/bulk_import_deep_dive.md]
-- **Load testing & bottleneck resolution**: Conducted **Locust** load testing, identified system bottlenecks, and delivered **30x response time improvement** on critical endpoints [Evidence: knowledge_base/compel/search_optimization_deep_dive.md]
-- **Kafka event-driven pipeline**: Architected **Kafka**-based pipeline processing **16–19M events** with near real-time synchronization and zero downtime via dual-pipeline strategy and feature flags [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md]
+- **Search UX Discovery**: Discovered users copy-paste component names (not type them) — pivoted from complex in-memory caching to simple **1000-item result limit**, **saving weeks of development** while matching actual user behavior <!-- [Evidence: knowledge_base/compel/search_ux_discovery.md] -->
+- **Search optimization**: Optimized queries across 20M-row tables, reducing API latency **from 3500ms to 95ms (36x)** via EXPLAIN ANALYZE-driven denormalization and B-tree indexing <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->
+- **Bulk import acceleration**: Accelerated 15–20M record imports **from 8 hours to 40 minutes (12x)** through index drop/rebuild cycles, bulk inserts, and transaction lock elimination <!-- [Evidence: knowledge_base/compel/bulk_import_deep_dive.md] -->
+- **Load testing & bottleneck resolution**: Conducted **Locust** load testing, identified system bottlenecks, and delivered **30x response time improvement** on critical endpoints <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->
+- **Kafka event-driven pipeline**: Architected **Kafka**-based pipeline processing **16–19M events** with near real-time synchronization and zero downtime via dual-pipeline strategy and feature flags <!-- [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md] -->
 - **Async MinIO export**: Engineered asynchronous data export from **MinIO**, eliminating manual workflows and reducing primary database load
-- **Test automation & quality**: Introduced **pytest**, achieving **98% code coverage** and **70% reduction in production bugs** through BDD practices [Evidence: knowledge_base/compel/bdd_process.md]
-- **Architecture documentation**: Designed **C4 L1/L2 architecture diagrams**, cutting new engineer onboarding time and reducing architecture alignment meetings by **30%** [Evidence: knowledge_base/compel/search_optimization_deep_dive.md]
-- **BDD process innovation**: Implemented **BDD scenarios** and trained system analysts to author them, reducing task rework by **35%** and elevating requirement quality [Evidence: knowledge_base/compel/bdd_process.md]
-- **Microservice template**: Created **GitLab-based microservice template** with standardized project structure, CI/CD, and tooling — **reduced new service deployment time by 2x** [Evidence: knowledge_base/compel/microservice_template.md]
+- **Test automation & quality**: Introduced **pytest**, achieving **98% code coverage** and **70% reduction in production bugs** through BDD practices <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
+- **Architecture documentation**: Designed **C4 L1/L2 architecture diagrams**, cutting new engineer onboarding time and reducing architecture alignment meetings by **30%** <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->
+- **BDD process innovation**: Implemented **BDD scenarios** and trained system analysts to author them, reducing task rework by **35%** and elevating requirement quality <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
+- **Microservice template**: Created **GitLab-based microservice template** with standardized project structure, CI/CD, and tooling — **reduced new service deployment time by 2x** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->
 - **Technical mentorship**: Mentored **4+ engineers** in system architecture, TDD, and BDD — most mentees achieved promotions or significant skill advancement
 - **Agile process improvement**: Optimized sprint planning and estimation workflows, increasing deadline accuracy by **35%** and balancing team workload
 - **Micro-frontend pattern**: Designed micro-BE / micro-FE separation pattern, improving horizontal scalability and enabling cross-project component reuse
@@ -57,16 +57,16 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 **Project**: Loyalty & Rewards Platform (Event-Driven Microservices)
 
-- **Event-driven analytics pipeline**: Designed and shipped analytics pipeline (RabbitMQ → ClickHouse), replacing heavy PostgreSQL JOIN queries — reduced analytics latency **from minutes to seconds** and offloaded OLTP database [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md]
+- **Event-driven analytics pipeline**: Designed and shipped analytics pipeline (RabbitMQ → ClickHouse), replacing heavy PostgreSQL JOIN queries — reduced analytics latency **from minutes to seconds** and offloaded OLTP database <!-- [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md] -->
 - **Layered architecture**: Implemented layered architecture, decoupling components to improve scalability, simplify unit testing, and accelerate deployment of changes
-- **CI/CD quality restoration**: Gained team buy-in to restore disabled linters and type checkers in single MR, establishing unified code style that **eliminated formatting debates** in code reviews [Evidence: knowledge_base/fortech/ci_cd_quality.md]
-- **Test automation**: Automated testing with **pytest**, raising coverage **from 0% to 92%**, **cutting debugging time by 50%**, and stabilizing release cadence [Evidence: knowledge_base/fortech/ci_cd_quality.md]
-- **Static analysis integration**: Integrated linters (**ruff & mypy**) into development workflow, **reducing static errors by 25%** and accelerating code reviews [Evidence: knowledge_base/fortech/ci_cd_quality.md]
-- **CI/CD pipeline**: Configured CI/CD pipelines with tests, linters, and type checkers, **cutting release cycle time by 40%** and minimizing production regressions [Evidence: knowledge_base/fortech/ci_cd_quality.md]
-- **Team mentoring & onboarding**: Mentored and onboarded new engineers, accelerating ramp-up time; conducted cross-team code reviews to catch architectural flaws early [Evidence: knowledge_base/fortech/mentoring_and_leadership.md]
+- **CI/CD quality restoration**: Gained team buy-in to restore disabled linters and type checkers in single MR, establishing unified code style that **eliminated formatting debates** in code reviews <!-- [Evidence: knowledge_base/fortech/ci_cd_quality.md] -->
+- **Test automation**: Automated testing with **pytest**, raising coverage **from 0% to 92%**, **cutting debugging time by 50%**, and stabilizing release cadence <!-- [Evidence: knowledge_base/fortech/ci_cd_quality.md] -->
+- **Static analysis integration**: Integrated linters (**ruff & mypy**) into development workflow, **reducing static errors by 25%** and accelerating code reviews <!-- [Evidence: knowledge_base/fortech/ci_cd_quality.md] -->
+- **CI/CD pipeline**: Configured CI/CD pipelines with tests, linters, and type checkers, **cutting release cycle time by 40%** and minimizing production regressions <!-- [Evidence: knowledge_base/fortech/ci_cd_quality.md] -->
+- **Team mentoring & onboarding**: Mentored and onboarded new engineers, accelerating ramp-up time; conducted cross-team code reviews to catch architectural flaws early <!-- [Evidence: knowledge_base/fortech/mentoring_and_leadership.md] -->
 - **Technical leadership**: Conducted technical interviews and performance reviews, identifying growth areas and boosting team efficiency; performed system analysis for third-party integrations, authored documentation, and trained developers — reducing adoption friction
-- **File upload microservice**: Developed file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by 40%** and decreasing storage I/O load [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md]
-- **External mentorship**: Commercially mentored 2 junior developers outside work to strong independent contributors [Evidence: knowledge_base/fortech/mentoring_and_leadership.md]
+- **File upload microservice**: Developed file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by 40%** and decreasing storage I/O load <!-- [Evidence: knowledge_base/fortech/transaction_analytics_deep_dive.md] -->
+- **External mentorship**: Commercially mentored 2 junior developers outside work to strong independent contributors <!-- [Evidence: knowledge_base/fortech/mentoring_and_leadership.md] -->
 
 **Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
 
@@ -105,14 +105,14 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 **Project**: Real Estate Brokerage Platform for Clients and Brokers
 
-- **Mortgage calculator service**: Designed and shipped mortgage calculation service from scratch in **3–4 weeks**, isolating domain logic via FastAPI + Django Admin with custom UI extensions and feature toggles [Evidence: knowledge_base/artw/mortgage_service_details.md]
-- **AmoCRM integration stabilization**: Stabilized third-party integrations (AmoCRM, DvizhAPI) by implementing **semaphore-based rate limiter** (asyncio Semaphore), **eliminating 429 errors** and self-DDoS patterns [Evidence: knowledge_base/artw/self_ddos_details.md]
-- **Data consistency fix**: Fixed critical data consistency bug by reordering API-call/DB-write sequence, ensuring atomic operations and eliminating orphaned records [Evidence: knowledge_base/artw/self_ddos_details.md]
+- **Mortgage calculator service**: Designed and shipped mortgage calculation service from scratch in **3–4 weeks**, isolating domain logic via FastAPI + Django Admin with custom UI extensions and feature toggles <!-- [Evidence: knowledge_base/artw/mortgage_service_details.md] -->
+- **AmoCRM integration stabilization**: Stabilized third-party integrations (AmoCRM, DvizhAPI) by implementing **semaphore-based rate limiter** (asyncio Semaphore), **eliminating 429 errors** and self-DDoS patterns <!-- [Evidence: knowledge_base/artw/self_ddos_details.md] -->
+- **Data consistency fix**: Fixed critical data consistency bug by reordering API-call/DB-write sequence, ensuring atomic operations and eliminating orphaned records <!-- [Evidence: knowledge_base/artw/self_ddos_details.md] -->
 - **Test coverage advocacy**: Advocated for and drove test coverage **from 0% to 50%**, significantly reducing production defects
 - **Technical leadership**: Took on team lead responsibilities — sprint planning, feature decomposition, release management
 - **Legacy refactoring**: Refactored legacy codebase, reducing technical debt and improving system maintainability
 - **Zero-downtime data migration**: Managed data migration between services with zero data loss and minimal downtime
-- **Code quality improvement**: Conducted cross-team code reviews; introduced linters as lasting quality improvement before transitioning out [Evidence: knowledge_base/artw/self_ddos_details.md]
+- **Code quality improvement**: Conducted cross-team code reviews; introduced linters as lasting quality improvement before transitioning out <!-- [Evidence: knowledge_base/artw/self_ddos_details.md] -->
 
 **Tech Stack**: Python3, FastAPI, TortoiseORM, Django Admin with custom UI extensions, Celery, pytest, asyncio, aiohttp, PostgreSQL, Redis, GitLab, Docker, Sentry, YouTrack
 
@@ -126,10 +126,10 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 **Project**: Admin Panel with Dadata API Integration
 
-- **Read-through cache implementation**: Implemented PostgreSQL-based read-through cache for Dadata API with normalized query keys and B-tree indexing, **eliminating all API rate-limiting bans** — system remained stable even under load testing [Evidence: knowledge_base/otr/dadata_cache_details.md]
+- **Read-through cache implementation**: Implemented PostgreSQL-based read-through cache for Dadata API with normalized query keys and B-tree indexing, **eliminating all API rate-limiting bans** — system remained stable even under load testing <!-- [Evidence: knowledge_base/otr/dadata_cache_details.md] -->
 - **Cache maintenance**: Designed automated scheduler for stale cached data cleanup, controlling database growth
-- **Technology choice**: Chose PostgreSQL over Redis for caching layer — appropriate for ~100–500 requests/day workload with intentional simplicity [Evidence: knowledge_base/otr/dadata_cache_details.md]
-- **Development process improvement**: Introduced **Git-based workflows** to replace zip-archive handoffs and established **cross-team code reviews** within the team (3 people), improving code quality and collaboration [Evidence: knowledge_base/otr/mentoring_and_git.md]
+- **Technology choice**: Chose PostgreSQL over Redis for caching layer — appropriate for ~100–500 requests/day workload with intentional simplicity <!-- [Evidence: knowledge_base/otr/dadata_cache_details.md] -->
+- **Development process improvement**: Introduced **Git-based workflows** to replace zip-archive handoffs and established **cross-team code reviews** within the team (3 people), improving code quality and collaboration <!-- [Evidence: knowledge_base/otr/mentoring_and_git.md] -->
 
 **Tech Stack**: Python (Django), PostgreSQL, Docker, GitHub, Trello
 
