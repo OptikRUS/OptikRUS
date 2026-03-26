@@ -7,7 +7,7 @@ Period: Июнь 2022 -- Октябрь 2023\
 General Stack: Python, FastAPI, PostgreSQL, Docker, RabbitMQ,
 ClickHouse, S3/MinIO
 
-Domain: Internal systems / analytics / integrations / mobile backend
+Domain: Loyalty/Rewards Platform / analytics / integrations / mobile backend
 
 Main Achievement: Внедрение event-driven аналитики (RabbitMQ →
 ClickHouse), улучшение качества разработки (CI/CD, тесты), ускорение

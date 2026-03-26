@@ -28,6 +28,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 **Senior Backend Developer** | Oct 2023 – Present
 
 **Project**: B2B Microservices Platform (~20M SKU catalog, 15–20 microservices, 16–20M rows/entity)
+- Discovered that users copy-paste component names rather than typing — pivoted from complex in-memory caching to a simple result-limit solution (1000 items), **saving weeks of development** while matching actual user behavior
 - Optimized search queries across 20M-row tables, reducing API latency **from 3500 ms to 95 ms (36x)** via EXPLAIN ANALYZE-driven denormalization and targeted B-tree indexing
 - Accelerated bulk data import of 15–20M records **from 8 hours to 40 minutes (12x)** by orchestrating index drop/rebuild cycles, bulk inserts, and transaction lock elimination
 - Conducted load testing with **Locust**, pinpointed system bottlenecks, and delivered a **30x response time improvement** on critical endpoints
@@ -53,9 +54,10 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 
 **Backend Engineer → Acting Lead** | Jun 2022 – Oct 2023
 
-**Project**: Transaction Analytics & Web Applications (Microservices)
-- Designed and shipped a transaction **analytics pipeline** (RabbitMQ → ClickHouse), replacing PostgreSQL-based reporting — reduced analytics latency **from minutes to seconds** and offloaded OLTP database
+**Project**: Loyalty & Rewards Platform (Microservices)
+- Designed and shipped a rewards **analytics pipeline** (RabbitMQ → ClickHouse), replacing PostgreSQL-based reporting — reduced analytics latency **from minutes to seconds** and offloaded OLTP database
 - Implemented a **layered architecture**, decoupling components to improve scalability, simplify unit testing, and accelerate change deployment
+- Gained team buy-in to restore disabled linters and type checkers in a single MR, establishing a unified code style that **eliminated formatting debates in code reviews**
 - Automated testing with **pytest**, raising coverage **from 0% to 92%**, **cutting debugging time by 50%**, and stabilizing release cadence
 - Integrated linters (**ruff & mypy**) into the development workflow, **reducing static errors by 25%** and accelerating code reviews
 - Configured **CI/CD pipelines** with tests, linters, and type checkers, **cutting release cycle time by 40%** and minimizing production regressions
@@ -113,10 +115,10 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 <img height="50" src="https://static.tildacdn.com/tild3439-3464-4030-b163-636236366533/Group_615.svg" alt="OTR">
 </a>
 
-**Backend Developer** | 2018 – 2021
+**Backend Engineer** | 2018 – 2021
 
 **Project**: Admin Panel with Dadata API Integration
-- Implemented a read-through cache for Dadata API using PostgreSQL with normalized query keys and B-tree indexing, eliminating duplicate external calls
+- Implemented a read-through cache for Dadata API using PostgreSQL with normalized query keys and B-tree indexing, eliminating duplicate external calls and **all API rate-limiting bans** — system remained stable even under load testing
 - Designed a scheduler for automatic cleanup of stale cached data, controlling database growth
 - Architected the caching layer with intentional simplicity (PostgreSQL over Redis) — appropriate for ~100–500 requests/day workload
 
@@ -132,25 +134,15 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 **Tech Stack**: Python (FastAPI, Motor), MongoDB, Kafka, Notion, GitHub
 
 ---
-**Project**: Telegram Bot for Photographer Services with Admin Panel (Tech Lead)
+**Project**: Telegram Bot for Photographer Services with Admin Panel (Tech Lead) (Tech Lead)
 - Architected a booking system with PostgreSQL transaction-based concurrency control, eliminating double-booking edge cases
 - Deployed CI/CD pipeline with Docker and GitHub Actions for automated builds and releases
 - Designed a domain model (users → slots → bookings) optimized for scheduling workflows
 - Implemented async notification scheduler with batch delivery, working within Telegram API rate limits
-- Mentored a junior developer, introduced Git-based workflows (replacing zip-archive handoffs)
+- Mentored junior developers and introduced Git-based workflows (replacing zip-archive email handoffs), established cross-team code reviews within a 3-person team
 - Managed client communication, task decomposition, and release planning end-to-end
 
 **Tech Stack**: Python (aiogram, Django), PostgreSQL, Docker, Trello, GitHub
-
----
-**Project**: Mobile Application Backend
-- Designed database schema optimized for mobile data access patterns
-- Deployed CI/CD infrastructure with Docker and GitLab CI
-- Developed a REST API ensuring fast and secure data exchange between mobile client and server
-- Built and improved the admin interface, reducing support workload
-- Integrated third-party services for extended functionality
-
-**Tech Stack**: Python (Django DRF), PostgreSQL, Docker, GitHub, Trello
 
 ***
 
@@ -211,7 +203,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ## 🤝 Soft skills:
-- **Force Multiplier**: mentored 4+ engineers to promotion-level growth through structured TDD/BDD training and architecture workshops
+- **Force Multiplier**: mentored 4+ engineers (developers and system analysts) to promotion-level growth through structured TDD/BDD training, architecture workshops, and requirements engineering (ERD, Swagger, functional specs)
 - Adapt to new tech stacks within two weeks — demonstrated by shipping production features on unfamiliar frameworks during first sprint
 - Drive **Agile process improvements** (Scrum, Kanban) that measurably reduced task completion time and improved sprint predictability by **35%**
 - Communicate complex architectural decisions to non-technical stakeholders — successfully defended projects before executive review boards
@@ -261,7 +253,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ## <p align="center">💻 About:</p>
 <p>
 Senior Backend Engineer specializing in high-load distributed systems, event-driven architectures, and developer experience.
-Delivered measurable business impact across B2B marketplaces, fintech analytics, real estate platforms, and government systems.
+Delivered measurable business impact across B2B marketplaces, loyalty platforms, real estate platforms, and government systems.
 Proven track record of transforming engineering culture through mentorship, test-driven development, and architectural standards —
 consistently turning teams into higher-performing units. 4x hackathon finalist (Leaders of Digital Transformation).
 </p>
