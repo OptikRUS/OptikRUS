@@ -11,12 +11,12 @@
 ## Контакты:
 
 <p align='left'>
-   📫E-mail: <a href='mailto:kirillpydev@gmail.com'>kirillpydev@gmail.com</a>
+   📫E-mail: <a href='mailto:kirillvsdev@gmail.com'>kirillvsdev@gmail.com</a>
 </p>
-<a href="https://t.me/kirillpydev" target="_blank">
+<a href="https://t.me/kirillvsdev" target="_blank">
 	<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/kirillpydev" target="_blank">
+<a href="https://www.linkedin.com/in/kirillvsdev" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
