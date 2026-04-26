@@ -5,7 +5,7 @@
 
 ## Profile
 
-Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** (from 3500ms to 95ms) on 20M-row datasets <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->, architected event-driven platforms processing **16–19M Kafka events** with zero-downtime via dual-pipeline strategy and feature flags <!-- [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md] -->, and standardized microservice templates that **halved deployment time** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->. Force multiplier: mentored 4+ engineers to promotion-level growth, embedded TDD/BDD culture that **cut bug rates by 70%** <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->.
+Senior Backend Engineer with 6+ years building high-load distributed systems in Python. Delivered **36x latency reduction** (from 3500ms to 95ms) on 20M-row datasets <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] -->, architected event-driven platforms processing **16–19M Kafka events** with zero-downtime via dual-pipeline strategy and feature flags <!-- [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md] -->, and standardized microservice templates that **halved deployment time** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->. Force multiplier: mentored 4+ engineers to promotion-level growth, embedded TDD/BDD culture that **cut bug rates by 70%** <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->. Practices **AI-native development** — Claude Code-driven TDD workflows with automated AI code review and prompt engineering for BDD scaffolding.
 ## Contacts:
 
 <p align='left'>
@@ -40,12 +40,15 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - **BDD process innovation**: Implemented **BDD scenarios** and trained system analysts to author them, reducing task rework by **35%** and elevating requirement quality <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
 - **Microservice template**: Created **GitLab-based microservice template** with standardized project structure, CI/CD, and tooling — **reduced new service deployment time by 2x** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->
 - **Technical mentorship**: Mentored **3 system analysts** in BDD practices and system architecture — most achieved significant skill advancement <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
+- **AI-native development workflow**: Integrated **Claude Code** into daily TDD cycle (Red-Green-Refactor) with custom skills, subagents, and plugins — accelerating test generation, refactoring, and automated code review against architectural standards
+- **LLM infrastructure research**: Evaluated local vs cloud LLM models (**OpenClaw** on dedicated Mac Mini), benchmarking cost-efficiency and latency to determine optimal model selection for development tooling
+- **Prompt engineering**: Applied **NotebookLM** and structured prompts for BDD scenario scaffolding, documentation generation, and test automation — reducing manual authoring effort while maintaining domain accuracy
 - **Agile process improvement**: Optimized sprint planning and estimation workflows, increasing deadline accuracy by **35%** and balancing team workload
 - **Micro-frontend pattern**: Designed micro-BE / micro-FE separation pattern, improving horizontal scalability and enabling cross-project component reuse
 - **Kafka inter-service communication**: Integrated **Kafka** for asynchronous messaging, improving order processing throughput by **35%**
 - **Monolith decomposition strategy**: Developed strategy for monolith-to-microservices migration, producing prioritized backlog that accelerated architectural transition
 
-**Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Apache Kafka, GitLab CI, Jira
+**Tech Stack**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Apache Kafka, GitLab CI, Jira, Claude Code, NotebookLM
 
 ***
 
@@ -67,8 +70,9 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 - **Technical leadership**: Conducted technical interviews and performance reviews, identifying growth areas and boosting team efficiency; performed system analysis for third-party integrations, authored documentation, and trained developers — reducing adoption friction
 - **File upload microservice**: Developed file upload microservice with **S3/MinIO** support and PostgreSQL metadata caching, **reducing file access latency by ~40%** and decreasing storage I/O load <!-- [Evidence: knowledge_base/fortech/file_upload_minio_migration.md] -->
 - **External mentorship**: Commercially mentored 2 junior developers outside work to strong independent contributors <!-- [Evidence: knowledge_base/fortech/mentoring_and_leadership.md] -->
+- **LLM integration & AI evangelism**: Integrated **ChatGPT API** into Telegram bot for automated interview algorithm preparation; delivered company-wide presentation on practical AI applications for engineering teams across all offices
 
-**Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
+**Tech Stack**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello, ChatGPT API
 
 ---
 
@@ -193,6 +197,7 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ![BDD](https://img.shields.io/badge/BDD-7B68EE?style=for-the-badge)
 ![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
+![AI-native Development](https://img.shields.io/badge/AI--native_Dev-D97757?style=for-the-badge)
 ![Test Coverage](https://img.shields.io/badge/Test%20Coverage-92%25-brightgreen?style=for-the-badge)
 
 **Tools & Platforms**
@@ -209,11 +214,16 @@ Senior Backend Engineer with 6+ years building high-load distributed systems in 
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-**AI Tools**
+**AI & Development Tools**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7B68EE?style=for-the-badge)
+![AI Code Review](https://img.shields.io/badge/AI_Code_Review-25A162?style=for-the-badge)
 
 ## 🤝 Soft skills:
 - **Force Multiplier**: mentored 4+ engineers to promotion-level growth through structured TDD/BDD training, architecture workshops, and requirements engineering

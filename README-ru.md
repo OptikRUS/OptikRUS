@@ -6,7 +6,7 @@
 
 ## Профиль
 
-Старший бэкенд-разработчик с опытом 6+ лет в проектировании высоконагруженных распределённых систем на Python. Сократил задержку API **в 36 раз** (с 3500 мс до 95 мс) на таблицах в 20M строк, <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] --> спроектировал событийно-ориентированную платформу, обрабатывающую **16–19M событий Kafka** с нулевым простоем благодаря стратегии двойного пайплайна и feature flags,<!-- [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md] --> стандартизировал шаблоны микросервисов, **сократив время развёртывания вдвое** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->. Катализатор роста команды: подготовил 4+ инженеров к повышению, внедрил культуру TDD/BDD и **сократил количество дефектов на 70%** <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->.
+Старший бэкенд-разработчик с опытом 6+ лет в проектировании высоконагруженных распределённых систем на Python. Сократил задержку API **в 36 раз** (с 3500 мс до 95 мс) на таблицах в 20M строк, <!-- [Evidence: knowledge_base/compel/search_optimization_deep_dive.md] --> спроектировал событийно-ориентированную платформу, обрабатывающую **16–19M событий Kafka** с нулевым простоем благодаря стратегии двойного пайплайна и feature flags,<!-- [Evidence: knowledge_base/compel/kafka_pipeline_deep_dive.md] --> стандартизировал шаблоны микросервисов, **сократив время развёртывания вдвое** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->. Катализатор роста команды: подготовил 4+ инженеров к повышению, внедрил культуру TDD/BDD и **сократил количество дефектов на 70%** <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->. Практикует **AI-native разработку** — TDD-процессы на базе Claude Code с автоматическим AI-ревью кода и промпт-инженерией для BDD-сценариев.
 
 ## Контакты:
 
@@ -43,12 +43,15 @@
 - **Внедрение BDD-процесса**: внедрил **BDD-сценарии** и обучил системных аналитиков их написанию, сократив переделку задач **на 35%** и повысив качество требований <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
 - **Шаблон микросервиса**: создал **шаблон микросервиса на GitLab** со стандартной структурой проекта, CI/CD и инструментарием — **сократил время развёртывания нового сервиса вдвое** <!-- [Evidence: knowledge_base/compel/microservice_template.md] -->
 - **Техническое наставничество**: обучил **3 системных аналитиков** BDD-практикам и системной архитектуре — большинство добились значительного роста навыков <!-- [Evidence: knowledge_base/compel/bdd_process.md] -->
+- **AI-native процесс разработки**: интегрировал **Claude Code** в ежедневный цикл TDD (Red-Green-Refactor) с кастомными навыками, субагентами и плагинами — ускорил генерацию тестов, рефакторинг и автоматическое ревью кода на соответствие архитектурным стандартам
+- **Исследование LLM-инфраструктуры**: провёл исследование локальных и облачных LLM-моделей (**OpenClaw** на выделенном Mac Mini), оценив стоимость и задержку для оптимального выбора модели в инструментарии разработки
+- **Промпт-инженерия**: применил **NotebookLM** и структурированные промпты для генерации BDD-сценариев, документации и автоматизации тестов — сократив ручную работу при сохранении доменной точности
 - **Оптимизация планирования**: улучшил процессы планирования спринтов и оценки задач, повысив точность сроков **на 35%** и сбалансировав нагрузку команды
 - **Паттерн микрофронтенда**: разработал паттерн разделения микро-BE / микро-FE, улучшив горизонтальную масштабируемость и обеспечив повторное использование компонентов между проектами
 - **Межсервисная коммуникация через Kafka**: интегрировал **Kafka** для асинхронного обмена сообщениями, улучшив пропускную способность обработки заказов **на 35%**
 - **Стратегия декомпозиции монолита**: разработал стратегию миграции с монолита на микросервисы, сформировав приоритизированный бэклог для ускорения архитектурного перехода
 
-**Технологический стек**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Apache Kafka, GitLab CI, Jira
+**Технологический стек**: Python3 (FastAPI, SQLAlchemy, FastStream, pytest), PostgreSQL, Docker, Kubernetes, MinIO, Apache Kafka, GitLab CI, Jira, Claude Code, NotebookLM
 
 ***
 
@@ -70,8 +73,9 @@
 - **Техническое лидерство**: проводил технические собеседования и ревью производительности, выявляя зоны роста и повышая эффективность команды; выполнял системный анализ сторонних интеграций, писал документацию и обучал разработчиков — снижая сложность внедрения
 - **Микросервис загрузки файлов**: разработал микросервис загрузки файлов с поддержкой **S3/MinIO** и кэшированием метаданных в PostgreSQL, **снизив задержку доступа к файлам на ~40%** и уменьшив нагрузку ввода-вывода на хранилище <!-- [Evidence: knowledge_base/fortech/file_upload_minio_migration.md] -->
 - **Внешнее наставничество**: коммерчески наставлял 2 junior-разработчиков вне работы, доведя их до уровня самостоятельных специалистов <!-- [Evidence: knowledge_base/fortech/mentoring_and_leadership.md] -->
+- **Интеграция LLM и AI-евангелизм**: интегрировал **ChatGPT API** в Telegram-бот для автоматизированной подготовки алгоритмов к собеседованиям; провёл общекорпоративную презентацию по практическому применению ИИ для инженерных команд во всех офисах
 
-**Технологический стек**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello
+**Технологический стек**: Python3 (FastAPI, Django DRF), PostgreSQL, ClickHouse, RabbitMQ, Docker, S3 (Amazon, MinIO), GitHub, Trello, ChatGPT API
 
 ---
 
@@ -196,6 +200,7 @@
 ![BDD](https://img.shields.io/badge/BDD-7B68EE?style=for-the-badge)
 ![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-1572B6?style=for-the-badge)
+![AI-native Development](https://img.shields.io/badge/AI--native_Dev-D97757?style=for-the-badge)
 ![Test Coverage](https://img.shields.io/badge/Test%20Coverage-92%25-brightgreen?style=for-the-badge)
 
 **Tools & Platforms**
@@ -212,11 +217,16 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
-**AI Tools**
+**AI & Development Tools**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-7B68EE?style=for-the-badge)
+![AI Code Review](https://img.shields.io/badge/AI_Code_Review-25A162?style=for-the-badge)
 
 ## 🤝 Гибкие навыки:
 - **Катализатор роста команды**: подготовил 4+ инженеров к повышению через структурированное обучение TDD/BDD, архитектурные воркшопы и инженерию требований
